@@ -1,0 +1,20 @@
+---
+title: "Advancing an Ecosystem Approach for Nature‑Positive Futures"
+subtitle: "Symposium at ESA"
+author:
+ - José Rafael Ferrer-Paris
+date: Nov-Dec 2026
+language: 
+  title-block-author-single: "Convenor"
+  title-block-published: "Upcoming event"
+---
+
+![](ESA2026-graphic-landscape-02-01.svg)
+
+## Abstract 
+
+Ecosystem science is entering a pivotal phase, driven by urgent policy commitments to halt and reverse nature loss under the Global Biodiversity Framework and Australia’s Nature Positive agenda. Delivering on these commitments requires comprehensive ecosystem theory, monitoring data, fit‑for‑purpose indicators and decision-support tools that operate coherently across scales—from global reporting to national inventories and on‑ground management and restoration.
+
+This symposium brings together a suite of complementary, interlinked ecosystem initiatives to articulate a shared vision for the future of ecosystem science and practice. This session highlights the scientific and policy foundations of a nature‑positive vision, and showcases how advances in ecosystem classification, mapping, monitoring, indicator development and decision frameworks are converging into a coherent, operational ecosystem approach. Collectively, the contributions highlight a shift from fragmented assessment toward integrated, scalable systems that can support ambition, accountability and learning as societies move to secure a nature‑positive future.
+
+The symposium emphasizes how complementary frameworks and innovative research infrastructure work together to diagnose risk, inform decisions, monitor impact, and measure recovery of different ecosystems. The symposium will appeal to ecologists, data scientists, conservation scientists, policy analysts, and managers interested in ecosystems, biodiversity monitoring, nature‑positive policy, Earth observation, and applied conservation science. It will provide attendees with a clear synthesis of where ecosystem science is heading, why integration across scales matters, and how emerging tools can be adopted in research, policy and practice.

@@ -8,6 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - workshops.qmd
+      - events.qmd
       - about.qmd
 
 format:
