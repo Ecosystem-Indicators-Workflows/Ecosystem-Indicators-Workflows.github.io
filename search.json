@@ -9,23 +9,51 @@
   {
     "objectID": "workshops.html",
     "href": "workshops.html",
-    "title": "Workshops",
+    "title": "Workhops",
     "section": "",
-    "text": "The redlistr workshop, held on Tuesday 5 May 2026, delivered an introduction on how to use the R package redlistr for species and ecosystems Red List assessments. The workshop focused on reproducible analysis, practical “recipe-style” coding, and helping participants build independence after training.\nThrough guided exercises, participants explored Extent of Occurrence (EOO), Area of Occupancy (AOO) metrics, and change over time together with hands-on exercises following each demo. The workshop showed the degree of ease or difficulty for participants to use the redlistr package and obtain the outputs using its functions.\nThe workshop was led by Prof. David Keith, Dr. Aniko Toth, and Dr. José R. Ferrer Paris, with contributions from the EIW team, and included 23 participants from the NSW Department of Climate Change, Energy, the Environment and Water (DCCEEW), the Department of Primary Industries and Regional Development (DPIRD), Queensland Cyber Infrastructure Foundation (QCIF), and UNSW. The new release of the redlistr package is available via this GitHub repository.\n\n\n\nShaping the Workflow Workshop was held online on Tuesday 19 May. This workshop was a hands-on codesign session bringing together ecologists, data analysts, coders, and software engineers to discuss how ecosystem indicator development can be improved with reproducible workflows (for more info please see our slides). Rather than presenting a finished product, participants were invited to actively test, question, and improve the demo of the workflow’s conceptual elements based on their real-world experience. The insights gathered will help improve the usability, inclusivity, interoperability, and overall adoption of the proposed solution across diverse user communities.\nGiven the diversity of tools (and the familiarity of the participants to them), skills, and institutional contexts across the community, the workshop focused on how people interact with the workflow: what works, what doesn’t, and what support is needed to make it usable, inclusive, and scalable.\nThe online session was led by Dr. Ada Sanchez-Mercado, Dr. José Ferrer Paris, and Liz Stokes (ARDC), with a great team of facilitators from UNSW (Silvia Colombo and Beatta Zarrabi) and QCIF (Abhimanyu Raj Singh). The workshop was attended by 32 participants (PhD students, early, mid and senior career) professionals from twelve institutions from across Australia from the academic (62.5%), government (34.4%), and private sector (3.2%).\nA feedback form filled by the participants after the workshop highlighted an appreciation for the workshop and especially for the interactive Miro board used in the session. The participants expressed the desire for more frequent (but also shorter) workshops to support ongoing progress. Advice and suggestions on time management, advance preparation, and diverse group discussions were taken into account by the team for future workshops."
+    "text": "Co-designing Ecosystem Indicators workshop\n\n\n\nJun 29, 2026\n\n\n\n\n\n\n\n\n\n\n\nCo-designing Ecosystem Indicators workshop\n\n\n\nMay 19, 2026\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to redlistr\n\n\n\nMay 5, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "workshops.html#redlistr-workshop",
-    "href": "workshops.html#redlistr-workshop",
-    "title": "Workshops",
-    "section": "",
-    "text": "The redlistr workshop, held on Tuesday 5 May 2026, delivered an introduction on how to use the R package redlistr for species and ecosystems Red List assessments. The workshop focused on reproducible analysis, practical “recipe-style” coding, and helping participants build independence after training.\nThrough guided exercises, participants explored Extent of Occurrence (EOO), Area of Occupancy (AOO) metrics, and change over time together with hands-on exercises following each demo. The workshop showed the degree of ease or difficulty for participants to use the redlistr package and obtain the outputs using its functions.\nThe workshop was led by Prof. David Keith, Dr. Aniko Toth, and Dr. José R. Ferrer Paris, with contributions from the EIW team, and included 23 participants from the NSW Department of Climate Change, Energy, the Environment and Water (DCCEEW), the Department of Primary Industries and Regional Development (DPIRD), Queensland Cyber Infrastructure Foundation (QCIF), and UNSW. The new release of the redlistr package is available via this GitHub repository."
-  },
-  {
-    "objectID": "workshops.html#shaping-the-workflow-co-designing-ecosystem-indicators-workshop",
-    "href": "workshops.html#shaping-the-workflow-co-designing-ecosystem-indicators-workshop",
-    "title": "Workshops",
+    "objectID": "workshop-info/shape-workflow-I/index.html",
+    "href": "workshop-info/shape-workflow-I/index.html",
+    "title": "Co-designing Ecosystem Indicators workshop",
     "section": "",
     "text": "Shaping the Workflow Workshop was held online on Tuesday 19 May. This workshop was a hands-on codesign session bringing together ecologists, data analysts, coders, and software engineers to discuss how ecosystem indicator development can be improved with reproducible workflows (for more info please see our slides). Rather than presenting a finished product, participants were invited to actively test, question, and improve the demo of the workflow’s conceptual elements based on their real-world experience. The insights gathered will help improve the usability, inclusivity, interoperability, and overall adoption of the proposed solution across diverse user communities.\nGiven the diversity of tools (and the familiarity of the participants to them), skills, and institutional contexts across the community, the workshop focused on how people interact with the workflow: what works, what doesn’t, and what support is needed to make it usable, inclusive, and scalable.\nThe online session was led by Dr. Ada Sanchez-Mercado, Dr. José Ferrer Paris, and Liz Stokes (ARDC), with a great team of facilitators from UNSW (Silvia Colombo and Beatta Zarrabi) and QCIF (Abhimanyu Raj Singh). The workshop was attended by 32 participants (PhD students, early, mid and senior career) professionals from twelve institutions from across Australia from the academic (62.5%), government (34.4%), and private sector (3.2%).\nA feedback form filled by the participants after the workshop highlighted an appreciation for the workshop and especially for the interactive Miro board used in the session. The participants expressed the desire for more frequent (but also shorter) workshops to support ongoing progress. Advice and suggestions on time management, advance preparation, and diverse group discussions were taken into account by the team for future workshops."
+  },
+  {
+    "objectID": "workshop-info/shape-workflows-II/index.html",
+    "href": "workshop-info/shape-workflows-II/index.html",
+    "title": "Co-designing Ecosystem Indicators workshop",
+    "section": "",
+    "text": "On Monday, 29 June 2026, a second co-design workshop was held online. The goal of the workshop was to scope priority ecosystems and indicators, reflect on the reproducibility of past indicator-development workflows, fill urgent knowledge gaps, and identify which ecosystems are most useful for informing current programs and future scalability. The participants of the workshop included a small group of invited researchers (8 participants) from 4 institutions (University of Melbourne, James Cook University, Queensland University of Technology, University of New South Wales)."
+  },
+  {
+    "objectID": "workshop-info/shape-workflows-II/index.html#context",
+    "href": "workshop-info/shape-workflows-II/index.html#context",
+    "title": "Co-designing Ecosystem Indicators workshop",
+    "section": "",
+    "text": "On Monday, 29 June 2026, a second co-design workshop was held online. The goal of the workshop was to scope priority ecosystems and indicators, reflect on the reproducibility of past indicator-development workflows, fill urgent knowledge gaps, and identify which ecosystems are most useful for informing current programs and future scalability. The participants of the workshop included a small group of invited researchers (8 participants) from 4 institutions (University of Melbourne, James Cook University, Queensland University of Technology, University of New South Wales)."
+  },
+  {
+    "objectID": "workshop-info/shape-workflows-II/index.html#workshop-aims",
+    "href": "workshop-info/shape-workflows-II/index.html#workshop-aims",
+    "title": "Co-designing Ecosystem Indicators workshop",
+    "section": "Workshop aims",
+    "text": "Workshop aims\nThe primary aims of the workshop were to:\nUnderstand how easy it is to find data for specific indicators and the main accessibility challenges\nIdentify the main risks when handling data and the specific skills for data preparation\nDetermine the current barrier for reproducible workflows\nDetermine the next steps and assign the right priority"
+  },
+  {
+    "objectID": "workshop-info/shape-workflows-II/index.html#outputs",
+    "href": "workshop-info/shape-workflows-II/index.html#outputs",
+    "title": "Co-designing Ecosystem Indicators workshop",
+    "section": "Outputs",
+    "text": "Outputs\nThe participants highlighted that workflows need structured and step-by-step documentation at every stage. Moreover, effort should focus on creating a registry of data sources with strict metadata standards and legal pathways for sharing data.\nParticipants also discussed the challenge of formally gathering expert feedback making the final results scientifically reproducible; for this reason, workflows should include frameworks to collect experts’ consensus within the code.\nAnother concern identified by participants, was that many ecosystems have insufficient data, so workflows need to be built to function effectively even when data is scarce.\nLastly, during the workshop, the need for a modular design was raised, a design that separates ecosystem-specific configurations from reusable workflow logic."
+  },
+  {
+    "objectID": "workshop-info/redlistr-intro.html",
+    "href": "workshop-info/redlistr-intro.html",
+    "title": "Introduction to redlistr",
+    "section": "",
+    "text": "The redlistr workshop, held on Tuesday 5 May 2026, delivered an introduction on how to use the R package redlistr for species and ecosystems Red List assessments. The workshop focused on reproducible analysis, practical “recipe-style” coding, and helping participants build independence after training.\nThrough guided exercises, participants explored Extent of Occurrence (EOO), Area of Occupancy (AOO) metrics, and change over time together with hands-on exercises following each demo. The workshop showed the degree of ease or difficulty for participants to use the redlistr package and obtain the outputs using its functions.\nThe workshop was led by Prof. David Keith, Dr. Aniko Toth, and Dr. José R. Ferrer Paris, with contributions from the EIW team, and included 23 participants from the NSW Department of Climate Change, Energy, the Environment and Water (DCCEEW), the Department of Primary Industries and Regional Development (DPIRD), Queensland Cyber Infrastructure Foundation (QCIF), and UNSW. The new release of the redlistr package is available via this GitHub repository."
   },
   {
     "objectID": "index.html",

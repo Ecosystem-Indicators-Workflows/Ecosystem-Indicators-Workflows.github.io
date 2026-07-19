@@ -6,8 +6,13 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="David Keith">
+<meta name="author" content="Aniko Toth">
+<meta name="author" content="José R. Ferrer Paris">
+<meta name="author" content="Abhimanyu Raj Singh">
+<meta name="dcterms.date" content="2026-05-05">
 
-<title>Ecosystem Indicators Workflows</title>
+<title>Introduction to redlistr – Ecosystem Indicators Workflows</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +28,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-5b4ad623e5705c0698d39aec6f10cf02.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-5b4ad623e5705c0698d39aec6f10cf02.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,7 +75,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -80,7 +85,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Ecosystem Indicators Workflows</span>
     </a>
   </div>
@@ -91,15 +96,15 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./workshops.html"> 
+    <a class="nav-link" href="../workshops.html"> 
 <span class="menu-text">Workhops</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
 </ul>
@@ -113,28 +118,41 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#presentations" id="toc-presentations" class="nav-link active" data-scroll-target="#presentations">Presentations</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Ecosystem Indicators Workflows</h1>
-</div>
+<h1 class="title">Introduction to redlistr</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Training</div>
+    <div class="quarto-category">R packages</div>
+  </div>
+  </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Organisers and facilitators</div>
+    <div class="quarto-title-meta-contents">
+             <p>David Keith </p>
+             <p>Aniko Toth </p>
+             <p>José R. Ferrer Paris </p>
+             <p>Abhimanyu Raj Singh </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Date</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 5, 2026</p>
+    </div>
+  </div>
   
     
   </div>
@@ -144,18 +162,11 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This GitHub organisation contain repositories for research projects associated with the Ecosystem Indicators Workflows initiative.</p>
-<p><a dhref="https://www.flickr.com/photos/199798864@N08/54676029702/in/dateposted/"><img src="https://live.staticflickr.com/65535/54676029702_6ae0e2d8b4_z.jpg" width="128" height="96" alt="Paciente"></a> <a dhref="https://flic.kr/p/2q8RSFv"><img src="https://live.staticflickr.com/65535/53910201427_9cf3bc92ba_n.jpg" width="128" height="96" alt="Field work at Tarawi NR"></a> <a dhref="https://www.flickr.com/photos/199798864@N08/53488067619/in/dateposted-public"><img src="https://live.staticflickr.com/65535/53488067619_72e04e487f_n.jpg" width="128" height="96" alt="Paseo-por-Bundeena"></a> <a dhref="https://www.flickr.com/photos/199798864@N08/55096784168/in/dateposted-public"><img src="https://live.staticflickr.com/65535/55096784168_d6da0b28ca_m.jpg" width="128" height="96" alt="Wisky Bay"></a></p>
-<p>We aim to provide modular, fit-for-purpose toolbox that supports the development of ecosystem-specific indicators. Learn more about the project at <a href="https://ardc.edu.au/project/ecosystem-indicator-workflows/" class="uri">https://ardc.edu.au/project/ecosystem-indicator-workflows/</a>.</p>
-<section id="presentations" class="level3">
-<h3 class="anchored" data-anchor-id="presentations">Presentations</h3>
-<ul>
-<li>Kick-off meeting <a href="https://github.com/Ecosystem-Indicators-Workflows/project-presentations">code</a> <a href="https://jrfep.quarto.pub/ecosystems-indicators-workflows-project">slides</a></li>
-<li>Focused workshop <a href="https://github.com/Ecosystem-Indicators-Workflows/project-presentations">code</a> <a href="https://rpubs.com/jrfep/ecosystem-indicator-workflows">slides</a></li>
-</ul>
+<p>The redlistr workshop, held on Tuesday 5 May 2026, delivered an introduction on how to use the R package redlistr for species and ecosystems Red List assessments. The workshop focused on reproducible analysis, practical “recipe-style” coding, and helping participants build independence after training.</p>
+<p>Through guided exercises, participants explored Extent of Occurrence (EOO), Area of Occupancy (AOO) metrics, and change over time together with hands-on exercises following each demo. The workshop showed the degree of ease or difficulty for participants to use the redlistr package and obtain the outputs using its functions.</p>
+<p>The workshop was led by Prof.&nbsp;David Keith, Dr.&nbsp;Aniko Toth, and Dr.&nbsp;José R. Ferrer Paris, with contributions from the EIW team, and included 23 participants from the NSW Department of Climate Change, Energy, the Environment and Water (DCCEEW), the Department of Primary Industries and Regional Development (DPIRD), Queensland Cyber Infrastructure Foundation (QCIF), and UNSW. The new release of the redlistr package is available via this GitHub repository.</p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

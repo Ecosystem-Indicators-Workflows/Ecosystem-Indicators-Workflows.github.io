@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>workshops – Ecosystem Indicators Workflows</title>
+<title>Workhops – Ecosystem Indicators Workflows</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -68,7 +70,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -76,7 +136,7 @@ ul.task-list li input[type="checkbox"] {
 <body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -96,7 +156,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./workshops.html" aria-current="page"> 
-<span class="menu-text">Workshops</span></a>
+<span class="menu-text">Workhops</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
@@ -110,48 +170,92 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">Workhops</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta column-page-left">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#workshops" id="toc-workshops" class="nav-link active" data-scroll-target="#workshops">Workshops</a>
-  <ul class="collapse">
-  <li><a href="#redlistr-workshop" id="toc-redlistr-workshop" class="nav-link" data-scroll-target="#redlistr-workshop">redlistr workshop</a></li>
-  <li><a href="#shaping-the-workflow-co-designing-ecosystem-indicators-workshop" id="toc-shaping-the-workflow-co-designing-ecosystem-indicators-workshop" class="nav-link" data-scroll-target="#shaping-the-workflow-co-designing-ecosystem-indicators-workshop">Shaping the Workflow: Co-designing Ecosystem Indicators workshop</a></li>
-  </ul></li>
-  </ul>
-</nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="UiUyMHBhY2thZ2Vz">R packages <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmVxdWlyZW1lbnRz">Requirements <span class="quarto-category-count">(2)</span></div><div class="category" data-category="VHJhaW5pbmc=">Training <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
 
 
-<section id="workshops" class="level1">
-<h1>Workshops</h1>
-<section id="redlistr-workshop" class="level2">
-<h2 class="anchored" data-anchor-id="redlistr-workshop">redlistr workshop</h2>
-<p>The redlistr workshop, held on Tuesday 5 May 2026, delivered an introduction on how to use the R package redlistr for species and ecosystems Red List assessments. The workshop focused on reproducible analysis, practical “recipe-style” coding, and helping participants build independence after training.</p>
-<p>Through guided exercises, participants explored Extent of Occurrence (EOO), Area of Occupancy (AOO) metrics, and change over time together with hands-on exercises following each demo. The workshop showed the degree of ease or difficulty for participants to use the redlistr package and obtain the outputs using its functions.</p>
-<p>The workshop was led by Prof.&nbsp;David Keith, Dr.&nbsp;Aniko Toth, and Dr.&nbsp;José R. Ferrer Paris, with contributions from the EIW team, and included 23 participants from the NSW Department of Climate Change, Energy, the Environment and Water (DCCEEW), the Department of Primary Industries and Regional Development (DPIRD), Queensland Cyber Infrastructure Foundation (QCIF), and UNSW. The new release of the redlistr package is available via this GitHub repository.</p>
-</section>
-<section id="shaping-the-workflow-co-designing-ecosystem-indicators-workshop" class="level2">
-<h2 class="anchored" data-anchor-id="shaping-the-workflow-co-designing-ecosystem-indicators-workshop">Shaping the Workflow: Co-designing Ecosystem Indicators workshop</h2>
-<p>Shaping the Workflow Workshop was held online on Tuesday 19 May. This workshop was a hands-on codesign session bringing together ecologists, data analysts, coders, and software engineers to discuss how ecosystem indicator development can be improved with reproducible workflows (for more info please see our slides). Rather than presenting a finished product, participants were invited to actively test, question, and improve the demo of the workflow’s conceptual elements based on their real-world experience. The insights gathered will help improve the usability, inclusivity, interoperability, and overall adoption of the proposed solution across diverse user communities.</p>
-<p>Given the diversity of tools (and the familiarity of the participants to them), skills, and institutional contexts across the community, the workshop focused on how people interact with the workflow: what works, what doesn’t, and what support is needed to make it usable, inclusive, and scalable.</p>
-<p>The online session was led by Dr.&nbsp;Ada Sanchez-Mercado, Dr.&nbsp;José Ferrer Paris, and Liz Stokes (ARDC), with a great team of facilitators from UNSW (Silvia Colombo and Beatta Zarrabi) and QCIF (Abhimanyu Raj Singh). The workshop was attended by 32 participants (PhD students, early, mid and senior career) professionals from twelve institutions from across Australia from the academic (62.5%), government (34.4%), and private sector (3.2%).</p>
-<p>A feedback form filled by the participants after the workshop highlighted an appreciation for the workshop and especially for the interactive Miro board used in the session. The participants expressed the desire for more frequent (but also shorter) workshops to support ongoing progress. Advice and suggestions on time management, advance preparation, and diverse group discussions were taken into account by the team for future workshops.</p>
 
 
-</section>
-</section>
 
-</main> <!-- /main -->
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="UmVxdWlyZW1lbnRz" data-listing-date-sort="1782655200000" data-listing-file-modified-sort="1784503646691" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="261">
+<a href="./workshop-info/shape-workflows-II/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Co-designing Ecosystem Indicators workshop
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 29, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="UmVxdWlyZW1lbnRz" data-listing-date-sort="1779112800000" data-listing-file-modified-sort="1784503650757" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="277">
+<a href="./workshop-info/shape-workflow-I/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Co-designing Ecosystem Indicators workshop
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+May 19, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="VHJhaW5pbmclMkNSJTIwcGFja2FnZXM=" data-listing-date-sort="1777903200000" data-listing-file-modified-sort="1784502959999" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="163">
+<a href="./workshop-info/redlistr-intro.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Introduction to redlistr
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+May 5, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
