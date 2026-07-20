@@ -20,6 +20,7 @@ language:
 
 On Monday, 29 June 2026, a second co-design workshop was held online. The goal of the workshop was to scope priority ecosystems and indicators, reflect on the reproducibility of past indicator-development workflows, fill urgent knowledge gaps, and identify which ecosystems are most useful for informing current programs and future scalability. The participants of the workshop included a small group of invited researchers (8 participants) from 4 institutions (University of Melbourne, James Cook University, Queensland University of Technology, University of New South Wales). 
 
+![Workshop_II_participants.png](/photos/Workshop_II_participants.png)
  
 ## Workshop aims  
 
@@ -33,6 +34,8 @@ Determine the current barrier for reproducible workflows
 
 Determine the next steps and assign the right priority  
 
+![Vortex exercise in Miro](/photos/Vortex.png)
+
 ## Outputs  
 
 The participants highlighted that workflows need structured and step-by-step documentation at every stage. Moreover, effort should focus on creating a registry of data sources with strict metadata standards and legal pathways for sharing data. 
@@ -43,4 +46,4 @@ Another concern identified by participants, was that many ecosystems have insuff
 
 Lastly, during the workshop, the need for a modular design was raised, a design that separates ecosystem-specific configurations from reusable workflow logic.  
 
-  
+![Individual reflection exercise in Miro](/photos/IIndividual_reflection.png)  
