@@ -6,11 +6,11 @@ By Silvia Colombo & José R. Ferrer-Paris
 Project partners from UNSW (Restech, Data Science Hub, and Computer Science and Engineering), ARDC, the University of Melbourne, James Cook University (JCU), Queensland University of Technology (QUT), Queensland Cyber Infrastructure Foundation (QCIF), participated in the hybrid meeting, and were joined by guests from Atlas of Living Australia (ALA), and the Department of Climate Change, Energy, the Environment and Water of Australia.
 
 
-::: {#fig-kickoff}
-![Participants of EIW project first kick-off meeting](https://raw.githubusercontent.com/Ecosystem-Indicators-Workflows/Ecosystem-Indicators-Workflows.github.io/main/Kick-off_picture.webp){width=80% fig-alt="Participants of EIW project first kick-off meeting"}
+
+![Participants of EIW project first kick-off meeting](https://raw.githubusercontent.com/Ecosystem-Indicators-Workflows/Ecosystem-Indicators-Workflows.github.io/main/Kick-off_picture.webp)
 
 EIW kick-off meeting participants. Photo by Abhimanyu Raj Singh.
-:::
+
 
 The project aims at developing research infrastructure for transparent and reproducible workflow for fit-for-purpose, ecosystem-specific indicators. The project will also empower a community of practice for indicator design, and engage with end users in government and industry. This will support a wide range of projects in the partner institutions, from assessing risk of ecosystem collapse, to designing indicators for natural capital accounting and measuring ecosystem recovery. 
 
