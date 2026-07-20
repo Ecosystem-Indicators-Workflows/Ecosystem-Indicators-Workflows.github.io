@@ -1,7 +1,20 @@
-ACCELERATING ECOSYSTEM SCIENCE THROUGH COMMUNITY-DRIVEN RESEARCH INFRASTRUCTURE AND WORKFLOWS 
+---
+title: "Accelerating Ecosystem Science Through Community-Driven Research Infrastructure And Workflows "
+subtitle: "eResearch poster abstract"
+author: 
+ - Abhimanyu (Raj) Singh
+ - Silvia Colombo
+ - Ada Sánchez-Mercado
+ - José Ferrer Paris 
+date: 24 Jun 2026
+categories: [Conferences]
+language: 
+  title-block-author-single: "Authors"
+  title-block-author-plural: "Authors"
+  title-block-published: "Date"
+---
 
-Abhimanyu (Raj) Singh1, 2, Silvia Colombo1, Ada Sánchez-Mercado1, José R. Ferrer-Paris1 
-1Centre for Ecosystem Science, University of New South Wales, Kensington, NSW; 2 Sustainable Futures, QCIF Digital Research. 
+## Abstract
 
 The Ecosystem Indicator Workflows (EIW) project aims at transforming the development of ecosystem‑specific indicators through transparent, reproducible, and scalable workflows. The project supports ecosystem research and applications in ecosystem accounting, risk assessment, restoration, and environmental monitoring by operationalising consistent, data‑driven approaches across Australia’s diverse ecosystems. In this poster we summarise the first ten months of progress of the project.  
 
