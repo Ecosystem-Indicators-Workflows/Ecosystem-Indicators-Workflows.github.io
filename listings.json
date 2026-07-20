@@ -1,5 +1,15 @@
 [
   {
+    "listing": "/events.html",
+    "items": [
+      "/event-info/ESA-Symposium.html",
+      "/event-info/eResearch abstract - poster.html",
+      "/event-info/eResearch 2026 - BoF abstract.html",
+      "/event-info/RSEAA Abstract.html",
+      "/event-info/Kick-off_meeting.html"
+    ]
+  },
+  {
     "listing": "/workshops.html",
     "items": [
       "/workshop-info/shape-workflows-II/index.html",

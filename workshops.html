@@ -42,7 +42,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-5b4ad623e5705c0698d39aec6f10cf02.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5b8f9b2f3cffee265242a5d44fbb1e00.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -80,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-date','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
@@ -159,6 +159,10 @@ window.Quarto = {
 <span class="menu-text">Workhops</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./events.html"> 
+<span class="menu-text">Events</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
@@ -189,7 +193,11 @@ window.Quarto = {
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
+<center>
+<img src="./assets/logo_CES.png" height="66">
+</center>
+</div></div>
         
     <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="UiUyMHBhY2thZ2Vz">R packages <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmVxdWlyZW1lbnRz">Requirements <span class="quarto-category-count">(2)</span></div><div class="category" data-category="VHJhaW5pbmc=">Training <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
@@ -205,14 +213,17 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="UmVxdWlyZW1lbnRz" data-listing-date-sort="1782655200000" data-listing-file-modified-sort="1784503646691" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="261">
+<div class="g-col-1" data-index="0" data-categories="UmVxdWlyZW1lbnRz" data-listing-date-sort="1782655200000" data-listing-file-modified-sort="1784533065435" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="269">
 <a href="./workshop-info/shape-workflows-II/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<p class="card-img-top"><img src="photos/Workshop_II_participants.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Co-designing Ecosystem Indicators workshop
 </h5>
+<div class="card-subtitle listing-subtitle">
+Shaping the Workflow, part II
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 Jun 29, 2026
@@ -221,14 +232,17 @@ Jun 29, 2026
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="UmVxdWlyZW1lbnRz" data-listing-date-sort="1779112800000" data-listing-file-modified-sort="1784503650757" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="277">
+<div class="g-col-1" data-index="1" data-categories="UmVxdWlyZW1lbnRz" data-listing-date-sort="1779112800000" data-listing-file-modified-sort="1784532837838" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="285">
 <a href="./workshop-info/shape-workflow-I/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<p class="card-img-top"><img src="workshop-info/shape-workflow-I/Miro_board_first_workshop.webp" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Co-designing Ecosystem Indicators workshop
 </h5>
+<div class="card-subtitle listing-subtitle">
+Shaping the Workflow, part I
+</div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 May 19, 2026
@@ -657,6 +671,19 @@ May 5, 2026
   });
   </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>This site prepared by: <a href="https://github.com/Ecosystem-Indicators-Workflows">EIW project team</a></p>
+</div>   
+    <div class="nav-footer-center">
+<p><img src="./assets/unsw_new_logo.png" height="20"> We acknowledge the Bedegal and Gadigal peoples who are the Traditional Owners of the lands where UNSW Sydney is located. We pay our respects to Elders past and present.</p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 
