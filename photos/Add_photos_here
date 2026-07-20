@@ -1,0 +1,15 @@
+Add all pictures to this folder to make them public independently and call them in code anywhere needed.
+
+::: {#figure}
+![Title](link image address here){width=80% fig-alt="add description"}
+
+CAPTION. Photo by CREDITS.
+:::
+
+Use numbers for easy managemnet and formats
+
+1.webp
+2.jpg
+3.png
+4.jpeg
+5.webp
