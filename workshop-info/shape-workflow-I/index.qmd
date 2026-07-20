@@ -19,13 +19,8 @@ language:
 Shaping the Workflow Workshop was held online on Tuesday 19 May. This workshop was a hands-on codesign session bringing together ecologists, data analysts, coders, and software engineers to discuss how ecosystem indicator development can be improved with reproducible workflows (for more info please see our slides). Rather than presenting a finished product, participants were invited to actively test, question, and improve the demo of the workflow’s conceptual elements based on their real-world experience. The insights gathered will help improve the usability, inclusivity, interoperability, and overall adoption of the proposed solution across diverse user communities.  
 
 
-::: {#fig-miro}
 
-![Miro board with participants](workshop-info/shape-workflow-I/Miro="80%"}
-
-Miro board with participants.
-
-:::
+![Miro board with participants](Miro_board_first_workshop.webp){#fig-miro width="80%"}
 
 
 Given the diversity of tools (and the familiarity of the participants to them), skills, and institutional contexts across the community, the workshop focused on how people interact with the workflow: what works, what doesn’t, and what support is needed to make it usable, inclusive, and scalable.   
