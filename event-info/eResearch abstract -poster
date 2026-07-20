@@ -1,0 +1,16 @@
+ACCELERATING ECOSYSTEM SCIENCE THROUGH COMMUNITY-DRIVEN RESEARCH INFRASTRUCTURE AND WORKFLOWS 
+
+Abhimanyu (Raj) Singh1, 2, Silvia Colombo1, Ada Sánchez-Mercado1, José R. Ferrer-Paris1 
+1Centre for Ecosystem Science, University of New South Wales, Kensington, NSW; 2 Sustainable Futures, QCIF Digital Research. 
+
+The Ecosystem Indicator Workflows (EIW) project aims at transforming the development of ecosystem‑specific indicators through transparent, reproducible, and scalable workflows. The project supports ecosystem research and applications in ecosystem accounting, risk assessment, restoration, and environmental monitoring by operationalising consistent, data‑driven approaches across Australia’s diverse ecosystems. In this poster we summarise the first ten months of progress of the project.  
+
+The project addresses the fragmentation of current practices, where inconsistent methods, limited reuse of analytical workflows, and lack of accessible infrastructure hinder scalability and reproducibility. These challenges constrain collaboration opportunity, integration into national environmental reporting and reduce comparability across ecosystems. 
+
+Our proposed solution is build around the co‑design of a community‑driven, standards‑based infrastructure. The project is establishing a collaborative community of ecologists, data scientists, research software engineers, and end‑users, alongside a modular toolbox comprising controlled vocabularies, metadata schemas, interoperable datasets, and workflow specifications aligned with FAIR principles and persistent identifiers (PIDs). This combined approach ensures semantic alignment, cross‑platform interoperability, and reusable, machine‑actionable workflows that can evolve through community contribution. 
+
+Progress to date includes co‑developed research vocabularies, stakeholder workshops spanning domain experts and infrastructure specialists, and initial development of data catalogues and prototype workflow components. Upcoming milestones include finalising the FAIR and PID implementation plans and a comprehensive requirements and development roadmap. 
+
+Early outcomes demonstrate a viable pathway toward a unified, community‑enabled framework that will shape the future of this field of applied research by enabling scalable, interoperable, and policy‑relevant ecosystem indicator development. 
+
+ 
