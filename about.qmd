@@ -13,3 +13,19 @@ If you are interested in hearing more about the EIW project and you would like t
 
 Photo by José Rafael Ferrer-Paris, [Flickr](https://www.flickr.com/photos/199798864@N08/54676029702/) (All rights reserved)
 :::
+
+## Acknowledgements
+
+This work was partly supported by:
+
+- the ARC Industry Laureate Fellowship Project "Foundations for leading the nature positive ecosystem conservation agenda" ([IL240100030](https://www.arc.gov.au/2024-industry-laureate-profile-professor-david-keith)) led by Professor David Keith at UNSW Sydney, in partnership with Department of Climate Change, Energy, the Environment and Water, International Union for Conservation of Nature, Department of Energy, Environment and Water, Department of Biodiversity Conservation and Attractions, Department of Planning and Environment NSW, Department of Natural Resources and Environment Tasmania. 
+- [The Ian Potter Foundation](https://www.ianpotter.org.au) grant "Tracking ecosystems and adapting management to change (ID: 21592)". 
+
+The [Ecosystem Indicators Workflows](https://ardc.edu.au/project/) project received investment from the Australian Research Data Commons (ARDC). The ARDC is funded by the National Collaborative Research Infrastructure Strategy (NCRIS).
+
+This project was undertaken with the assistance of resources and services from the National Computational Infrastructure (NCI), which is supported by the Australian Government.
+
+![](/assets/1839-IPF-Master Logo-RGB-Lores.jpg){width="250px" style="padding: 25px;"}
+![](/assets/ARDC_logo_RGB.png){width="250px" style="padding: 25px;"}
+![](/assets/NCRIS-PROVIDER.png){width="200px" style="padding: 25px;"}
+

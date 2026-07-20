@@ -4,7 +4,7 @@ subtitle: "RSEAA Speed presentation"
 author: 
  - José Ferrer Paris
  - Abhimanyu Raj Singh
-date: 14 May 2026
+date: 24 Aug 2026
 categories: [Conferences]
 language: 
   title-block-author-plural: "Authors"
