@@ -19,7 +19,7 @@ language:
 Shaping the Workflow Workshop was held online on Tuesday 19 May. This workshop was a hands-on codesign session bringing together ecologists, data analysts, coders, and software engineers to discuss how ecosystem indicator development can be improved with reproducible workflows (for more info please see our slides). Rather than presenting a finished product, participants were invited to actively test, question, and improve the demo of the workflow’s conceptual elements based on their real-world experience. The insights gathered will help improve the usability, inclusivity, interoperability, and overall adoption of the proposed solution across diverse user communities.  
 
 
-https://raw.githubusercontent.com/Ecosystem-Indicators-Workflows/Ecosystem-Indicators-Workflows.github.io/main/path/to/image.png{#fig-miro width="80%"}
+https://github.com/Ecosystem-Indicators-Workflows/Ecosystem-Indicators-Workflows.github.io/blob/main/Miro_board_first_workshop.webp
 
 Miro board with participants.
 
