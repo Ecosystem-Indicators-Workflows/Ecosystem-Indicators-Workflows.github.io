@@ -2,7 +2,6 @@
 title: "Ecosystem Indicators Workflows"
 ---
 
-This GitHub organisation contain repositories for research projects associated with the Ecosystem Indicators Workflows initiative. 
 
 <a dhref="https://www.flickr.com/photos/199798864@N08/54676029702/in/dateposted/"><img src="https://live.staticflickr.com/65535/54676029702_6ae0e2d8b4_z.jpg" width="128" height="96" alt="Paciente"/></a>
 <a dhref="https://flic.kr/p/2q8RSFv"><img src="https://live.staticflickr.com/65535/53910201427_9cf3bc92ba_n.jpg" width="128" height="96" alt="Field work at Tarawi NR"/></a>
@@ -11,9 +10,6 @@ This GitHub organisation contain repositories for research projects associated w
 
 We aim to provide modular, fit-for-purpose toolbox that supports the development of ecosystem-specific indicators. Learn more about the project at <https://ardc.edu.au/project/ecosystem-indicator-workflows/>.
 
+Check our [GitHub organisation](https://github.com/Ecosystem-Indicators-Workflows) for repositories and research projects associated with the Ecosystem Indicators Workflows initiative. 
 
-### Presentations 
-
-- Kick-off meeting [code](https://github.com/Ecosystem-Indicators-Workflows/project-presentations) [slides](https://jrfep.quarto.pub/ecosystems-indicators-workflows-project)
-- Focused workshop [code](https://github.com/Ecosystem-Indicators-Workflows/project-presentations) [slides](https://rpubs.com/jrfep/ecosystem-indicator-workflows)
 

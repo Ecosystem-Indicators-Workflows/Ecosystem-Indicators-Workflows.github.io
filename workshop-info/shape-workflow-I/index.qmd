@@ -27,3 +27,6 @@ The online session was led by Dr. Ada Sanchez-Mercado, Dr. José Ferrer Paris, a
 A feedback form filled by the participants after the workshop highlighted an appreciation for the workshop and especially for the interactive Miro board used in the session. The participants expressed the desire for more frequent (but also shorter) workshops to support ongoing progress. Advice and suggestions on time management, advance preparation, and diverse group discussions were taken into account by the team for future workshops. 
 
  
+## Content and links
+
+- Examples of Ecosystem Indicator Workflows: [code](https://github.com/Ecosystem-Indicators-Workflows/project-presentations) and [slides](https://rpubs.com/jrfep/ecosystem-indicator-workflows)

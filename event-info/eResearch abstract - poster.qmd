@@ -1,18 +1,20 @@
 ---
 title: "Accelerating Ecosystem Science Through Community-Driven Research Infrastructure And Workflows "
-subtitle: "eResearch poster abstract"
+subtitle: "eResearch poster"
 author: 
  - Abhimanyu (Raj) Singh
  - Silvia Colombo
  - Ada Sánchez-Mercado
  - José Ferrer Paris 
-date: 24 Jun 2026
+date: 24 Oct 2026
 categories: [Conferences]
 language: 
   title-block-author-single: "Authors"
   title-block-author-plural: "Authors"
-  title-block-published: "Date"
+  title-block-published: "Upcoming event"
 ---
+
+![](2026-eResearch-Website.jpg)
 
 ## Abstract
 

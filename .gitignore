@@ -1,6 +1,7 @@
 /.quarto/
 **/*.quarto_ipynb
 _site
-_files
+*_files/
+*.html
 .Rproj.user
 eiw_public_workshops.Rproj

@@ -2,16 +2,17 @@
 title: "But What Actually Works? Evaluating Capacity in User Communities"
 subtitle: "eResearch BoF abstract"
 author: 
- - José Ferrer Paris
  - Liz Stokes
  - Beatta Zarrabi 
-date: 24 Jun 2026
+date: 24 Oct 2026
 categories: [Conferences]
 language: 
   title-block-author-single: "Authors"
-  title-block-author-plural: "Authors"
-  title-block-published: "Date"
+  title-block-author-plural: "Convenors"
+  title-block-published: "Upcoming event"
 ---
+
+![](2026-eResearch-Website.jpg)
 
 ## Abstract
 Many collaborative research projects face a common challenge: how to build and sustain user communities beyond project funding while balancing diverse stakeholder needs and feedback. This session explores practical approaches to evaluating and strengthening user community capacity across research infrastructure, digital research tools, and scientific software projects. 

@@ -1,16 +1,22 @@
 ---
 title: "Ecosystem Indicators Workflows: Building a FAIR, Modular Toolbox for Reproducible Ecological Assessment in Australia "
-subtitle: "RSEAA Abstract"
+subtitle: "RSEAA Speed presentation"
 author: 
  - José Ferrer Paris
  - Abhimanyu Raj Singh
 date: 14 May 2026
 categories: [Conferences]
 language: 
-  title-block-author-single: "Authors"
   title-block-author-plural: "Authors"
-  title-block-published: "Date"
+  title-block-published: "Upcoming event"
 ---
+
+The [Research Software Asia Australia Conference (RSAA26)](https://rseaa.org/) is a research software community event for Asia and Australia.
+
+![](rseaa_logo.png){width=500}
+
+The Ecosystem Indicator Workflow project will be present with a speed presentation.
+
 ## Abstract
 
 Ecosystem-specific indicators underpin ecosystem accounting, risk assessment, and environmental reporting yet their development across Australia remains fragmented. Methods are often ad-hoc, less documented, and difficult to scale across the country's diverse ecosystems. This creates a reproducibility gap that limits scientific rigour and policy uptake. 
