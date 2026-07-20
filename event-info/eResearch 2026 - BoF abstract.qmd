@@ -1,5 +1,19 @@
-But What Actually Works? Evaluating Capacity in User Communities
+---
+title: "But What Actually Works? Evaluating Capacity in User Communities"
+subtitle: "eResearch BoF abstract"
+author: 
+ - José Ferrer Paris
+ - Liz Stokes
+ - Beatta Zarrabi 
+date: 24 Jun 2026
+categories: [Conferences]
+language: 
+  title-block-author-single: "Authors"
+  title-block-author-plural: "Authors"
+  title-block-published: "Date"
+---
 
+## Abstract
 Many collaborative research projects face a common challenge: how to build and sustain user communities beyond project funding while balancing diverse stakeholder needs and feedback. This session explores practical approaches to evaluating and strengthening user community capacity across research infrastructure, digital research tools, and scientific software projects. 
 
 It brings together community managers, product owners, project managers, research software engineers, research technologists, and researchers working with scientific tools, workflows, and engagement strategies. The focus is on framing community engagement as a series of targeted interventions aligned to user needs and project maturity, rather than a one-size-fits-all or static activity.
@@ -8,7 +22,7 @@ Facilitated by community leads Liz Stokes (Australian Research Data Commons) and
 
 The BoF format enables open exchange, peer learning, and cross-institutional discussion. Attendees will gain practical strategies for embedding user engagement into project workflows, approaches for evaluating community impact, and connections with peers addressing similar challenges. Outcomes include a documented summary of discussion points, contributed insights to a community engagement framework, and identification of opportunities for ongoing collaboration and community-building activities. 
 
-Presenters Bios: 
+## Presenters Bios: 
 
 Liz Stokes (Australian Research Data Commons) 
 Liz Stokes is Skills Development Lead Trainer at the Australian Research Data Commons (ARDC), where she focuses on translating community and workforce development strategies into practical training and engagement programs. Her work centres on building capability across research software and data ecosystems, with an emphasis on embedding user needs into sustainable community practice. 
