@@ -1,0 +1,28 @@
+Ecosystem Indicators Workflows: Building a FAIR, Modular Toolbox for Reproducible Ecological Assessment in Australia 
+
+Abhimanyu Raj Singh¹, ²*, Jose R Ferrer, ²* 
+¹ Sustainable Futures, QCIF Digital Research  
+²  Centre for Ecosystem Science, School of Biological, Earth and Environmental Sciences (BEES), UNSW Sydney * 
+Presenting authors 
+
+Ecosystem-specific indicators underpin ecosystem accounting, risk assessment, and environmental reporting yet their development across Australia remains fragmented. Methods are often ad-hoc, less documented, and difficult to scale across the country's diverse ecosystems. This creates a reproducibility gap that limits scientific rigour and policy uptake. 
+
+The Ecosystem Indicators Workflows project (a co-investment partnership with the ARDC-, February 2026–2028) is building a modular toolbox of transparent, reproducible workflows to guide users through indicator development from raw data to analysis-ready outputs. These workflows use conceptual models to ensure alignment of ecosystem knowledge with the intended purpose and are designed with FAIR principles embedded from the outset. Particularly we aim to (a) enable integration of existing ecosystem distribution data and cross-referencing national and global ecosystem classifications, (b) adopt standard controlled vocabularies to improve the findability and semantic interoperability, and (c) use persistent identifiers and a publication process to promote reusability in the research community. 
+
+In this lightning talk, I share early lessons from requirements gathering with ecologists, government agencies, and conservation managers across six institutions. Key challenges identified in this first stage of the project include the need to accommodate different user expertise levels, the variety of data types, and the accessibility of relevant data sources. 
+
+The architectural choices required to balance scientific rigour with accessibility, including how we are approaching workflow modularity, and semantic alignment will be discussed.  
+This work-in-progress invites feedback from RSEs who have navigated similar trade-offs in reproducible research infrastructure. 
+
+Learning Objectives
+By the end of this presentation, participants will be able to:  
+Identify opportunities to engage: Know how to contribute to or use the Ecosystem Indicators Workflows, including community via workshops, GitHub, etc.  
+Describe the FAIR workflow approach: Articulate how modular, transparent, and reproducible workflows can be applied to develop national ecosystem-specific indicators across terrestrial, marine, freshwater, and subterranean realms. 
+
+Presenter(s) Bio 
+
+Abhimanyu Raj Singh is a Data Scientist and Ecologist working with Ecosystem Indicators Workflows (EIW) project initiative led by UNSW Sydney and EcoCommons project hosted by QCIF Digital Research. He facilitates delivery of FAIR workflow packages, training materials, and community engagement activities. His work bridges ecological science and data infrastructure, supporting researchers and practitioners to develop reproducible, scalable ecosystem-specific indicators across Australia. He contributes to a national effort to empower diverse user communities, from ecologists to policy analysts through guided, well-documented workflows aligned with the IUCN Red List of Ecosystems and Global Ecosystem Typology. Abhimanyu is committed to open science and building technical capacity across government, academic, and industry sectors engaged in ecosystem monitoring and reporting. 
+
+Dr Jose Ferrer Paris develop methods and frameworks to inform ecosystem science and the conservation of biological diversity. His research is influencing global and national policy on ecosystem conservation and management. 
+His research projects apply spatial ecology and biodiversity informatics methods to organise, access, visualise and analyse a broad range of ecological data like species distribution records, camera trap detection histories, species interactions, species traits or spatio-temporal indicators of ecosystem function. Such data feed digital knowledge bases that are fundamental for policy and management decisions. They inform ecological research, policy, risk management for threatened ecosystems and species, ecosystem restoration and conservation, and natural capital accounting. 
+Reproducibility and transparency of my research is critical for building trust among different user groups supporting evidence-based decisions, driving me to provide open access to data and workflows and encourage reusability and external validation of methods and results. Alongside my peer-reviewed publications, I share my code in and make regular digital contributions to data repositories and knowledge portals. 
