@@ -15,6 +15,8 @@ language:
 
 The redlistr workshop, held on Tuesday 5 May 2026, delivered an introduction on how to use the R package redlistr for species and ecosystems Red List assessments. The workshop focused on reproducible analysis, practical “recipe-style” coding, and helping participants build independence after training.  
 
+![Prof. David Keith presenting at the redlist workshop on May 5 2026](/photos/Redlistr_participants.jpeg)
+
 Through guided exercises, participants explored Extent of Occurrence (EOO), Area of Occupancy (AOO) metrics, and change over time together with hands-on exercises following each demo. The workshop showed the degree of ease or difficulty for participants to use the redlistr package and obtain the outputs using its functions. 
 
 The workshop was led by Prof. David Keith, Dr. Aniko Toth, and Dr. José R. Ferrer Paris, with contributions from the EIW team, and included 23 participants from the NSW Department of Climate Change, Energy, the Environment and Water (DCCEEW), the Department of Primary Industries and Regional Development (DPIRD), Queensland Cyber Infrastructure Foundation (QCIF), and UNSW. The new release of the redlistr package is available via this GitHub repository.  
