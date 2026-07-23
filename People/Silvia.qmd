@@ -1,6 +1,5 @@
 --- 
-
-image: Silvia.jpg 
+image: Silvia.jpeg 
 description: Project Officer
 about: 
   template: trestles 
@@ -14,9 +13,7 @@ about:
       href: https://orcid.org/0000-0002-3671-0413 
     - text: CV 
       href: https://github.com/Silvia-pigeon/Website/blob/main/Silvia_Colombo_CV.pdf 
-
 title: Dr. Silvia Colombo 
-
 --- 
 
  
