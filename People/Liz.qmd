@@ -1,13 +1,10 @@
 --- 
-
 image: Liz.png 
 description: Skills Development Lead 
 about: 
-
   template: trestles 
   image-width: 10em 
   image-shape: round 
-
   links: 
     - text: LinkedIn 
       href: https://www.linkedin.com/in/liz-stokes-b724b82b/ 
@@ -17,9 +14,7 @@ about:
     - icon: person-vcard 
       text: Staff page 
       href: https://profiles.uts.edu.au/Elizabeth.Stokes 
-
 title: Liz Stokes 
-
 --- 
 
 Liz Stokes (Australian Research Data Commons) is Skills Development Lead Trainer at the Australian Research Data Commons (ARDC), where they translate practical training and community engagement programs into workforce development strategies for collaborative projects. This work in capability enablement across research software and data ecosystems, emphasises embedding user needs into sustainable community-oriented practices. 
