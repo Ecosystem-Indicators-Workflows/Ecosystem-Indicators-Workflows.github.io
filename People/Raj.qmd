@@ -1,5 +1,4 @@
 --- 
-
 image: Raj.png 
 description: Adjunct Research Fellow 
 about: 
