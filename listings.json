@@ -1,12 +1,13 @@
 [
   {
-    "listing": "/events.html",
+    "listing": "/people.html",
     "items": [
-      "/event-info/ESA-Symposium.html",
-      "/event-info/eResearch abstract - poster.html",
-      "/event-info/eResearch 2026 - BoF abstract.html",
-      "/event-info/RSEAA Abstract.html",
-      "/event-info/Kick-off_meeting.html"
+      "/People/Raj.html",
+      "/People/Beatta.html",
+      "/People/Ada.html",
+      "/People/Jose.html",
+      "/People/Silvia.html",
+      "/People/Liz.html"
     ]
   },
   {
@@ -15,6 +16,16 @@
       "/workshop-info/shape-workflows-II/index.html",
       "/workshop-info/shape-workflow-I/index.html",
       "/workshop-info/redlistr-intro.html"
+    ]
+  },
+  {
+    "listing": "/events.html",
+    "items": [
+      "/event-info/ESA-Symposium.html",
+      "/event-info/eResearch abstract - poster.html",
+      "/event-info/eResearch 2026 - BoF abstract.html",
+      "/event-info/RSEAA Abstract.html",
+      "/event-info/Kick-off_meeting.html"
     ]
   }
 ]

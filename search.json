@@ -1,59 +1,101 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "People/Beatta.html",
+    "href": "People/Beatta.html",
+    "title": "Beatta Zarrabi",
     "section": "",
-    "text": "The Ecosystem Indicator Workflows (EIW) is a project led by UNSW Centre for Ecosystem Science with partners from the University of Melbourne (UniMelb), James Cook University (JCU), Queensland University of Technology (QUT), Queensland Cyber Infrastructure Foundation (QCIF) and ARDC.\nThe project is a co-investment partnership with the Australian Research Data Commons (ARDC) through the Planet Research Data Commons (DOI: 10.3565/j5sq-a757). The ARDC is enabled by the Australian Government’s National Collaborative Research Infrastructure Strategy (NCRIS).\nIf you are interested in hearing more about the EIW project and you would like to participate to our next workshops, visit our project webpage, and contact us at eco.indicators.workflows (@) unsw.edu.au"
+    "text": "Beatta Zarrabi (UNSW) Beatta Zarrabi is a research and community engagement practitioner at UNSW with experience in developing and supporting collaborative research communities across interdisciplinary projects. Her work focuses on aligning user needs, stakeholder engagement, and project delivery to strengthen adoption and long-term impact of research tools and workflows."
   },
   {
-    "objectID": "about.html#acknowledgements",
-    "href": "about.html#acknowledgements",
-    "title": "About",
-    "section": "Acknowledgements",
-    "text": "Acknowledgements\nThis work was partly supported by:\n\nthe ARC Industry Laureate Fellowship Project “Foundations for leading the nature positive ecosystem conservation agenda” (IL240100030) led by Professor David Keith at UNSW Sydney, in partnership with Department of Climate Change, Energy, the Environment and Water, International Union for Conservation of Nature, Department of Energy, Environment and Water, Department of Biodiversity Conservation and Attractions, Department of Planning and Environment NSW, Department of Natural Resources and Environment Tasmania.\nThe Ian Potter Foundation grant “Tracking ecosystems and adapting management to change (ID: 21592)”.\n\nThe Ecosystem Indicators Workflows project received investment from the Australian Research Data Commons (ARDC). The ARDC is funded by the National Collaborative Research Infrastructure Strategy (NCRIS).\nThis project was undertaken with the assistance of resources and services from the National Computational Infrastructure (NCI), which is supported by the Australian Government."
+    "objectID": "People/Raj.html",
+    "href": "People/Raj.html",
+    "title": "Abhimanyu (Raj) Singh",
+    "section": "",
+    "text": "Abhimanyu Raj Singh is a Data Scientist and Ecologist working with Ecosystem Indicators Workflows (EIW) project initiative led by UNSW Sydney and EcoCommons project hosted by QCIF Digital Research. He facilitates delivery of FAIR workflow packages, training materials, and community engagement activities. His work bridges ecological science and data infrastructure, supporting researchers and practitioners to develop reproducible, scalable ecosystem-specific indicators across Australia. He contributes to a national effort to empower diverse user communities, from ecologists to policy analysts through guided, well-documented workflows aligned with the IUCN Red List of Ecosystems and Global Ecosystem Typology. Abhimanyu is committed to open science and building technical capacity across government, academic, and industry sectors engaged in ecosystem monitoring and reporting."
   },
   {
-    "objectID": "event-info/ESA-Symposium.html#abstract",
-    "href": "event-info/ESA-Symposium.html#abstract",
-    "title": "Advancing an Ecosystem Approach for Nature‑Positive Futures",
+    "objectID": "People/Ada.html",
+    "href": "People/Ada.html",
+    "title": "Dr. Ada Sanchez-Mercado",
+    "section": "",
+    "text": "Dr. Ada Sanchez-Mercado completed a PhD in Ecology at the Venezuelan Institute of Scientific Research. She has ten years of research experience in conservation biology of vertebrate and invertebrate species, with emphasis in modelling and quantitative ecology. Ada has experience leading and conducting research focused on animal species distribution patterns, species threats monitoring, and human dimension of wildlife conservation, and helping NGOs and research teams design evidence-based, efficient conservation actions through innovative analytical approaches to make the most out of the available data. She studied and worked in Venezuela, South Africa, and the USA."
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Meet our team",
+    "section": "",
+    "text": "Abhimanyu (Raj) Singh\n\n\nAdjunct Research Fellow\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeatta Zarrabi\n\n\nResearch and Community Engagement Practitioner\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. Ada Sanchez-Mercado\n\n\nAdjunct Lecturer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. José R. Ferrer-Paris\n\n\nSenior Research Fellow\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. Silvia Colombo\n\n\nProject Officer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLiz Stokes\n\n\nSkills Development Lead Trainer\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "event-info/RSEAA Abstract.html",
+    "href": "event-info/RSEAA Abstract.html",
+    "title": "Ecosystem Indicators Workflows: Building a FAIR, Modular Toolbox for Reproducible Ecological Assessment in Australia",
+    "section": "",
+    "text": "The Research Software Asia Australia Conference (RSAA26) is a research software community event for Asia and Australia.\nThe Ecosystem Indicator Workflow project will be present with a speed presentation."
+  },
+  {
+    "objectID": "event-info/RSEAA Abstract.html#abstract",
+    "href": "event-info/RSEAA Abstract.html#abstract",
+    "title": "Ecosystem Indicators Workflows: Building a FAIR, Modular Toolbox for Reproducible Ecological Assessment in Australia",
     "section": "Abstract",
-    "text": "Abstract\nEcosystem science is entering a pivotal phase, driven by urgent policy commitments to halt and reverse nature loss under the Global Biodiversity Framework and Australia’s Nature Positive agenda. Delivering on these commitments requires comprehensive ecosystem theory, monitoring data, fit‑for‑purpose indicators and decision-support tools that operate coherently across scales—from global reporting to national inventories and on‑ground management and restoration.\nThis symposium brings together a suite of complementary, interlinked ecosystem initiatives to articulate a shared vision for the future of ecosystem science and practice. This session highlights the scientific and policy foundations of a nature‑positive vision, and showcases how advances in ecosystem classification, mapping, monitoring, indicator development and decision frameworks are converging into a coherent, operational ecosystem approach. Collectively, the contributions highlight a shift from fragmented assessment toward integrated, scalable systems that can support ambition, accountability and learning as societies move to secure a nature‑positive future.\nThe symposium emphasizes how complementary frameworks and innovative research infrastructure work together to diagnose risk, inform decisions, monitor impact, and measure recovery of different ecosystems. The symposium will appeal to ecologists, data scientists, conservation scientists, policy analysts, and managers interested in ecosystems, biodiversity monitoring, nature‑positive policy, Earth observation, and applied conservation science. It will provide attendees with a clear synthesis of where ecosystem science is heading, why integration across scales matters, and how emerging tools can be adopted in research, policy and practice."
+    "text": "Abstract\nEcosystem-specific indicators underpin ecosystem accounting, risk assessment, and environmental reporting yet their development across Australia remains fragmented. Methods are often ad-hoc, less documented, and difficult to scale across the country’s diverse ecosystems. This creates a reproducibility gap that limits scientific rigour and policy uptake.\nThe Ecosystem Indicators Workflows project (a co-investment partnership with the ARDC-, February 2026–2028) is building a modular toolbox of transparent, reproducible workflows to guide users through indicator development from raw data to analysis-ready outputs. These workflows use conceptual models to ensure alignment of ecosystem knowledge with the intended purpose and are designed with FAIR principles embedded from the outset. Particularly we aim to (a) enable integration of existing ecosystem distribution data and cross-referencing national and global ecosystem classifications, (b) adopt standard controlled vocabularies to improve the findability and semantic interoperability, and (c) use persistent identifiers and a publication process to promote reusability in the research community.\nIn this lightning talk, I share early lessons from requirements gathering with ecologists, government agencies, and conservation managers across six institutions. Key challenges identified in this first stage of the project include the need to accommodate different user expertise levels, the variety of data types, and the accessibility of relevant data sources.\nThe architectural choices required to balance scientific rigour with accessibility, including how we are approaching workflow modularity, and semantic alignment will be discussed.\nThis work-in-progress invites feedback from RSEs who have navigated similar trade-offs in reproducible research infrastructure."
   },
   {
-    "objectID": "event-info/eResearch abstract - poster.html#abstract",
-    "href": "event-info/eResearch abstract - poster.html#abstract",
-    "title": "Accelerating Ecosystem Science Through Community-Driven Research Infrastructure And Workflows",
+    "objectID": "event-info/RSEAA Abstract.html#learning-objectives",
+    "href": "event-info/RSEAA Abstract.html#learning-objectives",
+    "title": "Ecosystem Indicators Workflows: Building a FAIR, Modular Toolbox for Reproducible Ecological Assessment in Australia",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nBy the end of this presentation, participants will be able to:\nIdentify opportunities to engage: Know how to contribute to or use the Ecosystem Indicators Workflows, including community via workshops, GitHub, etc.\nDescribe the FAIR workflow approach: Articulate how modular, transparent, and reproducible workflows can be applied to develop national ecosystem-specific indicators across terrestrial, marine, freshwater, and subterranean realms."
+  },
+  {
+    "objectID": "event-info/RSEAA Abstract.html#presenters-bio",
+    "href": "event-info/RSEAA Abstract.html#presenters-bio",
+    "title": "Ecosystem Indicators Workflows: Building a FAIR, Modular Toolbox for Reproducible Ecological Assessment in Australia",
+    "section": "Presenter(s) Bio",
+    "text": "Presenter(s) Bio\nAbhimanyu Raj Singh is a Data Scientist and Ecologist working with Ecosystem Indicators Workflows (EIW) project initiative led by UNSW Sydney and EcoCommons project hosted by QCIF Digital Research. He facilitates delivery of FAIR workflow packages, training materials, and community engagement activities. His work bridges ecological science and data infrastructure, supporting researchers and practitioners to develop reproducible, scalable ecosystem-specific indicators across Australia. He contributes to a national effort to empower diverse user communities, from ecologists to policy analysts through guided, well-documented workflows aligned with the IUCN Red List of Ecosystems and Global Ecosystem Typology. Abhimanyu is committed to open science and building technical capacity across government, academic, and industry sectors engaged in ecosystem monitoring and reporting.\nDr Jose Ferrer Paris develop methods and frameworks to inform ecosystem science and the conservation of biological diversity. His research is influencing global and national policy on ecosystem conservation and management. His research projects apply spatial ecology and biodiversity informatics methods to organise, access, visualise and analyse a broad range of ecological data like species distribution records, camera trap detection histories, species interactions, species traits or spatio-temporal indicators of ecosystem function. Such data feed digital knowledge bases that are fundamental for policy and management decisions. They inform ecological research, policy, risk management for threatened ecosystems and species, ecosystem restoration and conservation, and natural capital accounting. Reproducibility and transparency of my research is critical for building trust among different user groups supporting evidence-based decisions, driving me to provide open access to data and workflows and encourage reusability and external validation of methods and results. Alongside my peer-reviewed publications, I share my code in and make regular digital contributions to data repositories and knowledge portals."
+  },
+  {
+    "objectID": "event-info/eResearch 2026 - BoF abstract.html#abstract",
+    "href": "event-info/eResearch 2026 - BoF abstract.html#abstract",
+    "title": "But What Actually Works? Evaluating Capacity in User Communities",
     "section": "Abstract",
-    "text": "Abstract\nThe Ecosystem Indicator Workflows (EIW) project aims at transforming the development of ecosystem‑specific indicators through transparent, reproducible, and scalable workflows. The project supports ecosystem research and applications in ecosystem accounting, risk assessment, restoration, and environmental monitoring by operationalising consistent, data‑driven approaches across Australia’s diverse ecosystems. In this poster we summarise the first ten months of progress of the project.\nThe project addresses the fragmentation of current practices, where inconsistent methods, limited reuse of analytical workflows, and lack of accessible infrastructure hinder scalability and reproducibility. These challenges constrain collaboration opportunity, integration into national environmental reporting and reduce comparability across ecosystems.\nOur proposed solution is build around the co‑design of a community‑driven, standards‑based infrastructure. The project is establishing a collaborative community of ecologists, data scientists, research software engineers, and end‑users, alongside a modular toolbox comprising controlled vocabularies, metadata schemas, interoperable datasets, and workflow specifications aligned with FAIR principles and persistent identifiers (PIDs). This combined approach ensures semantic alignment, cross‑platform interoperability, and reusable, machine‑actionable workflows that can evolve through community contribution.\nProgress to date includes co‑developed research vocabularies, stakeholder workshops spanning domain experts and infrastructure specialists, and initial development of data catalogues and prototype workflow components. Upcoming milestones include finalising the FAIR and PID implementation plans and a comprehensive requirements and development roadmap.\nEarly outcomes demonstrate a viable pathway toward a unified, community‑enabled framework that will shape the future of this field of applied research by enabling scalable, interoperable, and policy‑relevant ecosystem indicator development."
+    "text": "Abstract\nMany collaborative research projects face a common challenge: how to build and sustain user communities beyond project funding while balancing diverse stakeholder needs and feedback. This session explores practical approaches to evaluating and strengthening user community capacity across research infrastructure, digital research tools, and scientific software projects.\nIt brings together community managers, product owners, project managers, research software engineers, research technologists, and researchers working with scientific tools, workflows, and engagement strategies. The focus is on framing community engagement as a series of targeted interventions aligned to user needs and project maturity, rather than a one-size-fits-all or static activity.\nFacilitated by community leads Liz Stokes (Australian Research Data Commons) and Beatta Zarrabi (UNSW), the session opens with a short introduction to a community engagement framework. Participants will then engage in structured breakout discussions exploring shared challenges such as understanding user needs, embedding engagement into product development, and evaluating community value. To support equitable participation, breakout groups will assign defined roles (facilitator, note-taker, reporter, and devil’s advocate), ensuring balanced contribution and inclusive dialogue across participants. A plenary report-back will synthesise key insights and themes across groups.\nThe BoF format enables open exchange, peer learning, and cross-institutional discussion. Attendees will gain practical strategies for embedding user engagement into project workflows, approaches for evaluating community impact, and connections with peers addressing similar challenges. Outcomes include a documented summary of discussion points, contributed insights to a community engagement framework, and identification of opportunities for ongoing collaboration and community-building activities."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ecosystem Indicators Workflows",
+    "objectID": "event-info/eResearch 2026 - BoF abstract.html#presenters-bios",
+    "href": "event-info/eResearch 2026 - BoF abstract.html#presenters-bios",
+    "title": "But What Actually Works? Evaluating Capacity in User Communities",
+    "section": "Presenters Bios:",
+    "text": "Presenters Bios:\nLiz Stokes (Australian Research Data Commons) Liz Stokes is Skills Development Lead Trainer at the Australian Research Data Commons (ARDC), where she focuses on translating community and workforce development strategies into practical training and engagement programs. Her work centres on building capability across research software and data ecosystems, with an emphasis on embedding user needs into sustainable community practice.\nBeatta Zarrabi (UNSW) Beatta Zarrabi is a research and community engagement practitioner at UNSW with experience in developing and supporting collaborative research communities across interdisciplinary projects. Her work focuses on aligning user needs, stakeholder engagement, and project delivery to strengthen adoption and long-term impact of research tools and workflows."
+  },
+  {
+    "objectID": "event-info/Kick-off_meeting.html",
+    "href": "event-info/Kick-off_meeting.html",
+    "title": "Kick-off meeting for the ARDC Ecosystems Indicators Workflows project",
     "section": "",
-    "text": "We aim to provide modular, fit-for-purpose toolbox that supports the development of ecosystem-specific indicators. Learn more about the project at https://ardc.edu.au/project/ecosystem-indicator-workflows/.\nCheck our GitHub organisation for repositories and research projects associated with the Ecosystem Indicators Workflows initiative."
+    "text": "On February 16th the Centre for Ecosystem Science and the Australian Research Data Commons (ARDC) hosted the kick-off meeting for the Ecosystems Indicators Workflows project.\nProject partners from UNSW (Restech, Data Science Hub, and Computer Science and Engineering), ARDC, the University of Melbourne, James Cook University (JCU), Queensland University of Technology (QUT), Queensland Cyber Infrastructure Foundation (QCIF), participated in the hybrid meeting, and were joined by guests from Atlas of Living Australia (ALA), and the Department of Climate Change, Energy, the Environment and Water of Australia.\nThe project aims at developing research infrastructure for transparent and reproducible workflow for fit-for-purpose, ecosystem-specific indicators. The project will also empower a community of practice for indicator design, and engage with end users in government and industry. This will support a wide range of projects in the partner institutions, from assessing risk of ecosystem collapse, to designing indicators for natural capital accounting and measuring ecosystem recovery.\nThe project, its expectations and goals were introduced by Dr. José Ferrer-Paris and the project team roles and responsibilities by Dr. Paula Martinez from ARDC. Dr. Jenna Wraith from QCIF presented how QCIF EcoCommons can provide a user-friendly and tested platform for the project as well as amazing expertise from their team. In the last part of the meeting, participants discussed ways to have a smooth and effective partnership through common communication channels and clear governance structure.\nThe meeting showed a strong support for a new, innovative project with a clear and collaborative vision. Stay tuned for more updates!"
   },
   {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
-    "section": "",
-    "text": "Advancing an Ecosystem Approach for Nature‑Positive Futures\n\n\nSymposium at ESA\n\n\n\nDec 1, 2026\n\n\n\n\n\n\n\n\n\n\n\nAccelerating Ecosystem Science Through Community-Driven Research Infrastructure And Workflows\n\n\neResearch poster\n\n\n\nOct 24, 2026\n\n\n\n\n\n\n\n\n\n\n\nBut What Actually Works? Evaluating Capacity in User Communities\n\n\neResearch BoF abstract\n\n\n\nOct 24, 2026\n\n\n\n\n\n\n\n\n\n\n\nEcosystem Indicators Workflows: Building a FAIR, Modular Toolbox for Reproducible Ecological Assessment in Australia\n\n\nRSEAA Speed presentation\n\n\n\nAug 24, 2026\n\n\n\n\n\n\n\n\n\n\n\nKick-off meeting for the ARDC Ecosystems Indicators Workflows project\n\n\nProject meetings\n\n\n\nFeb 16, 2026\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "workshop-info/shape-workflow-I/index.html",
-    "href": "workshop-info/shape-workflow-I/index.html",
-    "title": "Co-designing Ecosystem Indicators workshop",
-    "section": "",
-    "text": "Shaping the Workflow Workshop was held online on Tuesday 19 May. This workshop was a hands-on codesign session bringing together ecologists, data analysts, coders, and software engineers to discuss how ecosystem indicator development can be improved with reproducible workflows (for more info please see our slides). Rather than presenting a finished product, participants were invited to actively test, question, and improve the demo of the workflow’s conceptual elements based on their real-world experience. The insights gathered will help improve the usability, inclusivity, interoperability, and overall adoption of the proposed solution across diverse user communities.\nGiven the diversity of tools (and the familiarity of the participants to them), skills, and institutional contexts across the community, the workshop focused on how people interact with the workflow: what works, what doesn’t, and what support is needed to make it usable, inclusive, and scalable.\nThe online session was led by Dr. Ada Sanchez-Mercado, Dr. José Ferrer Paris, and Liz Stokes (ARDC), with a great team of facilitators from UNSW (Silvia Colombo and Beatta Zarrabi) and QCIF (Abhimanyu Raj Singh). The workshop was attended by 32 participants (PhD students, early, mid and senior career) professionals from twelve institutions from across Australia from the academic (62.5%), government (34.4%), and private sector (3.2%).\nA feedback form filled by the participants after the workshop highlighted an appreciation for the workshop and especially for the interactive Miro board used in the session. The participants expressed the desire for more frequent (but also shorter) workshops to support ongoing progress. Advice and suggestions on time management, advance preparation, and diverse group discussions were taken into account by the team for future workshops."
-  },
-  {
-    "objectID": "workshop-info/shape-workflow-I/index.html#content-and-links",
-    "href": "workshop-info/shape-workflow-I/index.html#content-and-links",
-    "title": "Co-designing Ecosystem Indicators workshop",
+    "objectID": "event-info/Kick-off_meeting.html#content-and-links",
+    "href": "event-info/Kick-off_meeting.html#content-and-links",
+    "title": "Kick-off meeting for the ARDC Ecosystems Indicators Workflows project",
     "section": "Content and links",
-    "text": "Content and links\n\nExamples of Ecosystem Indicator Workflows: code and slides"
+    "text": "Content and links\n\nPresentation code and slides"
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workhops",
+    "section": "",
+    "text": "Co-designing Ecosystem Indicators workshop\n\n\nShaping the Workflow, part II\n\n\n\nJun 29, 2026\n\n\n\n\n\n\n\n\n\n\n\nCo-designing Ecosystem Indicators workshop\n\n\nShaping the Workflow, part I\n\n\n\nMay 19, 2026\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to redlistr\n\n\n\nMay 5, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "workshop-info/redlistr-intro.html",
+    "href": "workshop-info/redlistr-intro.html",
+    "title": "Introduction to redlistr",
+    "section": "",
+    "text": "The redlistr workshop, held on Tuesday 5 May 2026, delivered an introduction on how to use the R package redlistr for species and ecosystems Red List assessments. The workshop focused on reproducible analysis, practical “recipe-style” coding, and helping participants build independence after training.\n\n\n\nProf. David Keith presenting at the redlist workshop on May 5 2026\n\n\nThrough guided exercises, participants explored Extent of Occurrence (EOO), Area of Occupancy (AOO) metrics, and change over time together with hands-on exercises following each demo. The workshop showed the degree of ease or difficulty for participants to use the redlistr package and obtain the outputs using its functions.\nThe workshop was led by Prof. David Keith, Dr. Aniko Toth, and Dr. José R. Ferrer Paris, with contributions from the EIW team, and included 23 participants from the NSW Department of Climate Change, Energy, the Environment and Water (DCCEEW), the Department of Primary Industries and Regional Development (DPIRD), Queensland Cyber Infrastructure Foundation (QCIF), and UNSW. The new release of the redlistr package is available via this GitHub repository."
   },
   {
     "objectID": "workshop-info/shape-workflows-II/index.html",
@@ -84,73 +126,80 @@
     "text": "Outputs\nThe participants highlighted that workflows need structured and step-by-step documentation at every stage. Moreover, effort should focus on creating a registry of data sources with strict metadata standards and legal pathways for sharing data.\nParticipants also discussed the challenge of formally gathering expert feedback making the final results scientifically reproducible; for this reason, workflows should include frameworks to collect experts’ consensus within the code.\nAnother concern identified by participants, was that many ecosystems have insufficient data, so workflows need to be built to function effectively even when data is scarce.\nLastly, during the workshop, the need for a modular design was raised, a design that separates ecosystem-specific configurations from reusable workflow logic.\n\n\n\nIndividual reflection exercise in Miro"
   },
   {
-    "objectID": "workshop-info/redlistr-intro.html",
-    "href": "workshop-info/redlistr-intro.html",
-    "title": "Introduction to redlistr",
+    "objectID": "workshop-info/shape-workflow-I/index.html",
+    "href": "workshop-info/shape-workflow-I/index.html",
+    "title": "Co-designing Ecosystem Indicators workshop",
     "section": "",
-    "text": "The redlistr workshop, held on Tuesday 5 May 2026, delivered an introduction on how to use the R package redlistr for species and ecosystems Red List assessments. The workshop focused on reproducible analysis, practical “recipe-style” coding, and helping participants build independence after training.\nThrough guided exercises, participants explored Extent of Occurrence (EOO), Area of Occupancy (AOO) metrics, and change over time together with hands-on exercises following each demo. The workshop showed the degree of ease or difficulty for participants to use the redlistr package and obtain the outputs using its functions.\nThe workshop was led by Prof. David Keith, Dr. Aniko Toth, and Dr. José R. Ferrer Paris, with contributions from the EIW team, and included 23 participants from the NSW Department of Climate Change, Energy, the Environment and Water (DCCEEW), the Department of Primary Industries and Regional Development (DPIRD), Queensland Cyber Infrastructure Foundation (QCIF), and UNSW. The new release of the redlistr package is available via this GitHub repository."
+    "text": "Shaping the Workflow Workshop was held online on Tuesday 19 May. This workshop was a hands-on codesign session bringing together ecologists, data analysts, coders, and software engineers to discuss how ecosystem indicator development can be improved with reproducible workflows (for more info please see our slides). Rather than presenting a finished product, participants were invited to actively test, question, and improve the demo of the workflow’s conceptual elements based on their real-world experience. The insights gathered will help improve the usability, inclusivity, interoperability, and overall adoption of the proposed solution across diverse user communities.\nGiven the diversity of tools (and the familiarity of the participants to them), skills, and institutional contexts across the community, the workshop focused on how people interact with the workflow: what works, what doesn’t, and what support is needed to make it usable, inclusive, and scalable.\nThe online session was led by Dr. Ada Sanchez-Mercado, Dr. José Ferrer Paris, and Liz Stokes (ARDC), with a great team of facilitators from UNSW (Silvia Colombo and Beatta Zarrabi) and QCIF (Abhimanyu Raj Singh). The workshop was attended by 32 participants (PhD students, early, mid and senior career) professionals from twelve institutions from across Australia from the academic (62.5%), government (34.4%), and private sector (3.2%).\nA feedback form filled by the participants after the workshop highlighted an appreciation for the workshop and especially for the interactive Miro board used in the session. The participants expressed the desire for more frequent (but also shorter) workshops to support ongoing progress. Advice and suggestions on time management, advance preparation, and diverse group discussions were taken into account by the team for future workshops."
   },
   {
-    "objectID": "workshops.html",
-    "href": "workshops.html",
-    "title": "Workhops",
-    "section": "",
-    "text": "Co-designing Ecosystem Indicators workshop\n\n\nShaping the Workflow, part II\n\n\n\nJun 29, 2026\n\n\n\n\n\n\n\n\n\n\n\nCo-designing Ecosystem Indicators workshop\n\n\nShaping the Workflow, part I\n\n\n\nMay 19, 2026\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to redlistr\n\n\n\nMay 5, 2026\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "event-info/Kick-off_meeting.html",
-    "href": "event-info/Kick-off_meeting.html",
-    "title": "Kick-off meeting for the ARDC Ecosystems Indicators Workflows project",
-    "section": "",
-    "text": "On February 16th the Centre for Ecosystem Science and the Australian Research Data Commons (ARDC) hosted the kick-off meeting for the Ecosystems Indicators Workflows project.\nProject partners from UNSW (Restech, Data Science Hub, and Computer Science and Engineering), ARDC, the University of Melbourne, James Cook University (JCU), Queensland University of Technology (QUT), Queensland Cyber Infrastructure Foundation (QCIF), participated in the hybrid meeting, and were joined by guests from Atlas of Living Australia (ALA), and the Department of Climate Change, Energy, the Environment and Water of Australia.\nThe project aims at developing research infrastructure for transparent and reproducible workflow for fit-for-purpose, ecosystem-specific indicators. The project will also empower a community of practice for indicator design, and engage with end users in government and industry. This will support a wide range of projects in the partner institutions, from assessing risk of ecosystem collapse, to designing indicators for natural capital accounting and measuring ecosystem recovery.\nThe project, its expectations and goals were introduced by Dr. José Ferrer-Paris and the project team roles and responsibilities by Dr. Paula Martinez from ARDC. Dr. Jenna Wraith from QCIF presented how QCIF EcoCommons can provide a user-friendly and tested platform for the project as well as amazing expertise from their team. In the last part of the meeting, participants discussed ways to have a smooth and effective partnership through common communication channels and clear governance structure.\nThe meeting showed a strong support for a new, innovative project with a clear and collaborative vision. Stay tuned for more updates!"
-  },
-  {
-    "objectID": "event-info/Kick-off_meeting.html#content-and-links",
-    "href": "event-info/Kick-off_meeting.html#content-and-links",
-    "title": "Kick-off meeting for the ARDC Ecosystems Indicators Workflows project",
+    "objectID": "workshop-info/shape-workflow-I/index.html#content-and-links",
+    "href": "workshop-info/shape-workflow-I/index.html#content-and-links",
+    "title": "Co-designing Ecosystem Indicators workshop",
     "section": "Content and links",
-    "text": "Content and links\n\nPresentation code and slides"
+    "text": "Content and links\n\nExamples of Ecosystem Indicator Workflows: code and slides"
   },
   {
-    "objectID": "event-info/eResearch 2026 - BoF abstract.html#abstract",
-    "href": "event-info/eResearch 2026 - BoF abstract.html#abstract",
-    "title": "But What Actually Works? Evaluating Capacity in User Communities",
-    "section": "Abstract",
-    "text": "Abstract\nMany collaborative research projects face a common challenge: how to build and sustain user communities beyond project funding while balancing diverse stakeholder needs and feedback. This session explores practical approaches to evaluating and strengthening user community capacity across research infrastructure, digital research tools, and scientific software projects.\nIt brings together community managers, product owners, project managers, research software engineers, research technologists, and researchers working with scientific tools, workflows, and engagement strategies. The focus is on framing community engagement as a series of targeted interventions aligned to user needs and project maturity, rather than a one-size-fits-all or static activity.\nFacilitated by community leads Liz Stokes (Australian Research Data Commons) and Beatta Zarrabi (UNSW), the session opens with a short introduction to a community engagement framework. Participants will then engage in structured breakout discussions exploring shared challenges such as understanding user needs, embedding engagement into product development, and evaluating community value. To support equitable participation, breakout groups will assign defined roles (facilitator, note-taker, reporter, and devil’s advocate), ensuring balanced contribution and inclusive dialogue across participants. A plenary report-back will synthesise key insights and themes across groups.\nThe BoF format enables open exchange, peer learning, and cross-institutional discussion. Attendees will gain practical strategies for embedding user engagement into project workflows, approaches for evaluating community impact, and connections with peers addressing similar challenges. Outcomes include a documented summary of discussion points, contributed insights to a community engagement framework, and identification of opportunities for ongoing collaboration and community-building activities."
-  },
-  {
-    "objectID": "event-info/eResearch 2026 - BoF abstract.html#presenters-bios",
-    "href": "event-info/eResearch 2026 - BoF abstract.html#presenters-bios",
-    "title": "But What Actually Works? Evaluating Capacity in User Communities",
-    "section": "Presenters Bios:",
-    "text": "Presenters Bios:\nLiz Stokes (Australian Research Data Commons) Liz Stokes is Skills Development Lead Trainer at the Australian Research Data Commons (ARDC), where she focuses on translating community and workforce development strategies into practical training and engagement programs. Her work centres on building capability across research software and data ecosystems, with an emphasis on embedding user needs into sustainable community practice.\nBeatta Zarrabi (UNSW) Beatta Zarrabi is a research and community engagement practitioner at UNSW with experience in developing and supporting collaborative research communities across interdisciplinary projects. Her work focuses on aligning user needs, stakeholder engagement, and project delivery to strengthen adoption and long-term impact of research tools and workflows."
-  },
-  {
-    "objectID": "event-info/RSEAA Abstract.html",
-    "href": "event-info/RSEAA Abstract.html",
-    "title": "Ecosystem Indicators Workflows: Building a FAIR, Modular Toolbox for Reproducible Ecological Assessment in Australia",
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
     "section": "",
-    "text": "The Research Software Asia Australia Conference (RSAA26) is a research software community event for Asia and Australia.\nThe Ecosystem Indicator Workflow project will be present with a speed presentation."
+    "text": "Advancing an Ecosystem Approach for Nature‑Positive Futures\n\n\nSymposium at ESA\n\n\n\nDec 1, 2026\n\n\n\n\n\n\n\n\n\n\n\nAccelerating Ecosystem Science Through Community-Driven Research Infrastructure And Workflows\n\n\neResearch poster\n\n\n\nOct 24, 2026\n\n\n\n\n\n\n\n\n\n\n\nBut What Actually Works? Evaluating Capacity in User Communities\n\n\neResearch BoF abstract\n\n\n\nOct 24, 2026\n\n\n\n\n\n\n\n\n\n\n\nEcosystem Indicators Workflows: Building a FAIR, Modular Toolbox for Reproducible Ecological Assessment in Australia\n\n\nRSEAA Speed presentation\n\n\n\nAug 24, 2026\n\n\n\n\n\n\n\n\n\n\n\nKick-off meeting for the ARDC Ecosystems Indicators Workflows project\n\n\nProject meetings\n\n\n\nFeb 16, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "event-info/RSEAA Abstract.html#abstract",
-    "href": "event-info/RSEAA Abstract.html#abstract",
-    "title": "Ecosystem Indicators Workflows: Building a FAIR, Modular Toolbox for Reproducible Ecological Assessment in Australia",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ecosystem Indicators Workflows",
+    "section": "",
+    "text": "We aim to provide modular, fit-for-purpose toolbox that supports the development of ecosystem-specific indicators. Learn more about the project at https://ardc.edu.au/project/ecosystem-indicator-workflows/.\nCheck our GitHub organisation for repositories and research projects associated with the Ecosystem Indicators Workflows initiative."
+  },
+  {
+    "objectID": "event-info/eResearch abstract - poster.html#abstract",
+    "href": "event-info/eResearch abstract - poster.html#abstract",
+    "title": "Accelerating Ecosystem Science Through Community-Driven Research Infrastructure And Workflows",
     "section": "Abstract",
-    "text": "Abstract\nEcosystem-specific indicators underpin ecosystem accounting, risk assessment, and environmental reporting yet their development across Australia remains fragmented. Methods are often ad-hoc, less documented, and difficult to scale across the country’s diverse ecosystems. This creates a reproducibility gap that limits scientific rigour and policy uptake.\nThe Ecosystem Indicators Workflows project (a co-investment partnership with the ARDC-, February 2026–2028) is building a modular toolbox of transparent, reproducible workflows to guide users through indicator development from raw data to analysis-ready outputs. These workflows use conceptual models to ensure alignment of ecosystem knowledge with the intended purpose and are designed with FAIR principles embedded from the outset. Particularly we aim to (a) enable integration of existing ecosystem distribution data and cross-referencing national and global ecosystem classifications, (b) adopt standard controlled vocabularies to improve the findability and semantic interoperability, and (c) use persistent identifiers and a publication process to promote reusability in the research community.\nIn this lightning talk, I share early lessons from requirements gathering with ecologists, government agencies, and conservation managers across six institutions. Key challenges identified in this first stage of the project include the need to accommodate different user expertise levels, the variety of data types, and the accessibility of relevant data sources.\nThe architectural choices required to balance scientific rigour with accessibility, including how we are approaching workflow modularity, and semantic alignment will be discussed.\nThis work-in-progress invites feedback from RSEs who have navigated similar trade-offs in reproducible research infrastructure."
+    "text": "Abstract\nThe Ecosystem Indicator Workflows (EIW) project aims at transforming the development of ecosystem‑specific indicators through transparent, reproducible, and scalable workflows. The project supports ecosystem research and applications in ecosystem accounting, risk assessment, restoration, and environmental monitoring by operationalising consistent, data‑driven approaches across Australia’s diverse ecosystems. In this poster we summarise the first ten months of progress of the project.\nThe project addresses the fragmentation of current practices, where inconsistent methods, limited reuse of analytical workflows, and lack of accessible infrastructure hinder scalability and reproducibility. These challenges constrain collaboration opportunity, integration into national environmental reporting and reduce comparability across ecosystems.\nOur proposed solution is build around the co‑design of a community‑driven, standards‑based infrastructure. The project is establishing a collaborative community of ecologists, data scientists, research software engineers, and end‑users, alongside a modular toolbox comprising controlled vocabularies, metadata schemas, interoperable datasets, and workflow specifications aligned with FAIR principles and persistent identifiers (PIDs). This combined approach ensures semantic alignment, cross‑platform interoperability, and reusable, machine‑actionable workflows that can evolve through community contribution.\nProgress to date includes co‑developed research vocabularies, stakeholder workshops spanning domain experts and infrastructure specialists, and initial development of data catalogues and prototype workflow components. Upcoming milestones include finalising the FAIR and PID implementation plans and a comprehensive requirements and development roadmap.\nEarly outcomes demonstrate a viable pathway toward a unified, community‑enabled framework that will shape the future of this field of applied research by enabling scalable, interoperable, and policy‑relevant ecosystem indicator development."
   },
   {
-    "objectID": "event-info/RSEAA Abstract.html#learning-objectives",
-    "href": "event-info/RSEAA Abstract.html#learning-objectives",
-    "title": "Ecosystem Indicators Workflows: Building a FAIR, Modular Toolbox for Reproducible Ecological Assessment in Australia",
-    "section": "Learning Objectives",
-    "text": "Learning Objectives\nBy the end of this presentation, participants will be able to:\nIdentify opportunities to engage: Know how to contribute to or use the Ecosystem Indicators Workflows, including community via workshops, GitHub, etc.\nDescribe the FAIR workflow approach: Articulate how modular, transparent, and reproducible workflows can be applied to develop national ecosystem-specific indicators across terrestrial, marine, freshwater, and subterranean realms."
+    "objectID": "event-info/ESA-Symposium.html#abstract",
+    "href": "event-info/ESA-Symposium.html#abstract",
+    "title": "Advancing an Ecosystem Approach for Nature‑Positive Futures",
+    "section": "Abstract",
+    "text": "Abstract\nEcosystem science is entering a pivotal phase, driven by urgent policy commitments to halt and reverse nature loss under the Global Biodiversity Framework and Australia’s Nature Positive agenda. Delivering on these commitments requires comprehensive ecosystem theory, monitoring data, fit‑for‑purpose indicators and decision-support tools that operate coherently across scales—from global reporting to national inventories and on‑ground management and restoration.\nThis symposium brings together a suite of complementary, interlinked ecosystem initiatives to articulate a shared vision for the future of ecosystem science and practice. This session highlights the scientific and policy foundations of a nature‑positive vision, and showcases how advances in ecosystem classification, mapping, monitoring, indicator development and decision frameworks are converging into a coherent, operational ecosystem approach. Collectively, the contributions highlight a shift from fragmented assessment toward integrated, scalable systems that can support ambition, accountability and learning as societies move to secure a nature‑positive future.\nThe symposium emphasizes how complementary frameworks and innovative research infrastructure work together to diagnose risk, inform decisions, monitor impact, and measure recovery of different ecosystems. The symposium will appeal to ecologists, data scientists, conservation scientists, policy analysts, and managers interested in ecosystems, biodiversity monitoring, nature‑positive policy, Earth observation, and applied conservation science. It will provide attendees with a clear synthesis of where ecosystem science is heading, why integration across scales matters, and how emerging tools can be adopted in research, policy and practice."
   },
   {
-    "objectID": "event-info/RSEAA Abstract.html#presenters-bio",
-    "href": "event-info/RSEAA Abstract.html#presenters-bio",
-    "title": "Ecosystem Indicators Workflows: Building a FAIR, Modular Toolbox for Reproducible Ecological Assessment in Australia",
-    "section": "Presenter(s) Bio",
-    "text": "Presenter(s) Bio\nAbhimanyu Raj Singh is a Data Scientist and Ecologist working with Ecosystem Indicators Workflows (EIW) project initiative led by UNSW Sydney and EcoCommons project hosted by QCIF Digital Research. He facilitates delivery of FAIR workflow packages, training materials, and community engagement activities. His work bridges ecological science and data infrastructure, supporting researchers and practitioners to develop reproducible, scalable ecosystem-specific indicators across Australia. He contributes to a national effort to empower diverse user communities, from ecologists to policy analysts through guided, well-documented workflows aligned with the IUCN Red List of Ecosystems and Global Ecosystem Typology. Abhimanyu is committed to open science and building technical capacity across government, academic, and industry sectors engaged in ecosystem monitoring and reporting.\nDr Jose Ferrer Paris develop methods and frameworks to inform ecosystem science and the conservation of biological diversity. His research is influencing global and national policy on ecosystem conservation and management. His research projects apply spatial ecology and biodiversity informatics methods to organise, access, visualise and analyse a broad range of ecological data like species distribution records, camera trap detection histories, species interactions, species traits or spatio-temporal indicators of ecosystem function. Such data feed digital knowledge bases that are fundamental for policy and management decisions. They inform ecological research, policy, risk management for threatened ecosystems and species, ecosystem restoration and conservation, and natural capital accounting. Reproducibility and transparency of my research is critical for building trust among different user groups supporting evidence-based decisions, driving me to provide open access to data and workflows and encourage reusability and external validation of methods and results. Alongside my peer-reviewed publications, I share my code in and make regular digital contributions to data repositories and knowledge portals."
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The Ecosystem Indicator Workflows (EIW) is a project led by UNSW Centre for Ecosystem Science with partners from the University of Melbourne (UniMelb), James Cook University (JCU), Queensland University of Technology (QUT), Queensland Cyber Infrastructure Foundation (QCIF) and ARDC.\nThe project is a co-investment partnership with the Australian Research Data Commons (ARDC) through the Planet Research Data Commons (DOI: 10.3565/j5sq-a757). The ARDC is enabled by the Australian Government’s National Collaborative Research Infrastructure Strategy (NCRIS).\nIf you are interested in hearing more about the EIW project and you would like to participate to our next workshops, visit our project webpage, and contact us at eco.indicators.workflows (@) unsw.edu.au"
+  },
+  {
+    "objectID": "about.html#acknowledgements",
+    "href": "about.html#acknowledgements",
+    "title": "About",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nThis work was partly supported by:\n\nthe ARC Industry Laureate Fellowship Project “Foundations for leading the nature positive ecosystem conservation agenda” (IL240100030) led by Professor David Keith at UNSW Sydney, in partnership with Department of Climate Change, Energy, the Environment and Water, International Union for Conservation of Nature, Department of Energy, Environment and Water, Department of Biodiversity Conservation and Attractions, Department of Planning and Environment NSW, Department of Natural Resources and Environment Tasmania.\nThe Ian Potter Foundation grant “Tracking ecosystems and adapting management to change (ID: 21592)”.\n\nThe Ecosystem Indicators Workflows project received investment from the Australian Research Data Commons (ARDC). The ARDC is funded by the National Collaborative Research Infrastructure Strategy (NCRIS).\nThis project was undertaken with the assistance of resources and services from the National Computational Infrastructure (NCI), which is supported by the Australian Government."
+  },
+  {
+    "objectID": "People/Liz.html",
+    "href": "People/Liz.html",
+    "title": "Liz Stokes",
+    "section": "",
+    "text": "Liz Stokes (Australian Research Data Commons) is Skills Development Lead Trainer at the Australian Research Data Commons (ARDC), where they translate practical training and community engagement programs into workforce development strategies for collaborative projects. This work in capability enablement across research software and data ecosystems, emphasises embedding user needs into sustainable community-oriented practices."
+  },
+  {
+    "objectID": "People/Jose.html",
+    "href": "People/Jose.html",
+    "title": "Dr. José R. Ferrer-Paris",
+    "section": "",
+    "text": "José is currently Research Fellow at the Center for Ecosystem Science at UNSW, and a member of the International Union for the Conservation of Nature (IUCN) Thematic Group on Red List of Ecosystems. He completed his studies in Germany and Venezuela and has research experience in biodiversity monitoring and eco-informatics in Venezuela and South Africa. His research focuses on biodiversity monitoring, species distribution modelling, and risk assessments for species and ecosystems. He has designed, implemented and managed databases of biological data and integrated this data into workflows for reporting and analysis. José’s current work involves the organisation of existing ecological data, monitoring networks, and expert’s knowledge on ecosystem to find spatial and temporal predictors for estimating the status and trends in ecosystem’s distribution and functions."
+  },
+  {
+    "objectID": "People/Silvia.html",
+    "href": "People/Silvia.html",
+    "title": "Dr. Silvia Colombo",
+    "section": "",
+    "text": "Silvia Colombo is currently a Project Officer for the Ecosystem Indicators Workflows (EIW) project initiative led by UNSW Sydney. She is also working at Macquarie University as a Research Assistant, helping to digitalize The Downing Herbarium collection to make specimens available to the public. Silvia recently completed a Ph.D. at the University of Melbourne on the evolution of the architecture of avian nests. Her background includes taxonomy, animal behaviour and navigation."
   }
 ]
