@@ -1,7 +1,7 @@
 --- 
 
 image: Silvia.jpg 
-description: Skills Development Lead Trainer 
+description: Project Officer
 about: 
   template: trestles 
   image-width: 10em 
