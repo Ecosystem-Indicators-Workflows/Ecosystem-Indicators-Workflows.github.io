@@ -1,0 +1,30 @@
+--- 
+
+image: Raj.png 
+description: Adjunct Research Fellow 
+about: 
+
+  template: trestles 
+  image-width: 10em 
+  image-shape: round 
+
+  links: 
+  - icon: github 
+    text: GitHub 
+    href: https://github.com/abhirscecocommons 
+  - icon: orcid 
+    text: ORCID 
+    href: https://orcid.org/0000-0002-2279-7060 
+  - text: Google scholar 
+    href: https://scholar.google.com/citations?user=MVQy2wkAAAAJ&hl=en 
+  - icon: person-vcard 
+    text: Staff page 
+    href: https://www.qcif.edu.au/our-people/abhimanyu-(raj)-singh 
+
+title: Abhimanyu (Raj) Singh 
+
+--- 
+
+ 
+
+Abhimanyu Raj Singh is a Data Scientist and Ecologist working with Ecosystem Indicators Workflows (EIW) project initiative led by UNSW Sydney and EcoCommons project hosted by QCIF Digital Research. He facilitates delivery of FAIR workflow packages, training materials, and community engagement activities. His work bridges ecological science and data infrastructure, supporting researchers and practitioners to develop reproducible, scalable ecosystem-specific indicators across Australia. He contributes to a national effort to empower diverse user communities, from ecologists to policy analysts through guided, well-documented workflows aligned with the IUCN Red List of Ecosystems and Global Ecosystem Typology. Abhimanyu is committed to open science and building technical capacity across government, academic, and industry sectors engaged in ecosystem monitoring and reporting. 
