@@ -1,12 +1,10 @@
 --- 
-
 image: Ada.png 
 description: Adjunct Lecturer 
 about: 
   template: trestles 
   image-width: 10em 
   image-shape: round 
-
   links: 
     - icon: github 
       text: GitHub 
@@ -17,7 +15,6 @@ about:
     - icon: person-vcard 
       text: Staff page 
       href: https://www.unsw.edu.au/staff/ada-sanchez-mercado 
-
 title: Dr. Ada Sanchez-Mercado 
 
 --- 
