@@ -9,6 +9,7 @@ website:
         text: Home
       - workshops.qmd
       - events.qmd
+      - people.qmd
       - about.qmd
   margin-header: |
     <center>

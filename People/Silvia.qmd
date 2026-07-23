@@ -1,6 +1,5 @@
 --- 
-
-image: Silvia.jpg 
+image: Silvia.jpeg 
 description: Skills Development Lead Trainer 
 about: 
   template: trestles 
@@ -16,7 +15,6 @@ about:
       href: https://github.com/Silvia-pigeon/Website/blob/main/Silvia_Colombo_CV.pdf 
 
 title: Dr. Silvia Colombo 
-
 --- 
 
  

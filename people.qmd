@@ -1,0 +1,10 @@
+---
+title: "Meet our team"
+comments: false
+listing:
+  type: grid
+  grid-columns: 3
+  image-height: 300px
+  categories: false
+  contents: People
+---
