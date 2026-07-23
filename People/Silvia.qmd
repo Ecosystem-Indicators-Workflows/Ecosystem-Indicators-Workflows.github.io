@@ -1,0 +1,24 @@
+--- 
+
+image: Silvia.jpg 
+description: Skills Development Lead Trainer 
+about: 
+  template: trestles 
+  image-width: 10em 
+  image-shape: round 
+  links: 
+    - text: Google scholar 
+      href: https://scholar.google.com/citations?user=zbpD3LMAAAAJ&hl=en 
+    - icon: orcid 
+      text: ORCID 
+      href: https://orcid.org/0000-0002-3671-0413 
+    - text: CV 
+      href: https://github.com/Silvia-pigeon/Website/blob/main/Silvia_Colombo_CV.pdf 
+
+title: Dr. Silvia Colombo 
+
+--- 
+
+ 
+
+Silvia Colombo is currently a Project Officer for the Ecosystem Indicators Workflows (EIW) project initiative led by UNSW Sydney. She is also working at Macquarie University as a Research Assistant, helping to digitalize The Downing Herbarium collection to make specimens available to the public. Silvia recently completed a Ph.D. at the University of Melbourne on the evolution of the architecture of avian nests. Her background includes taxonomy, animal behaviour and navigation. 
