@@ -1,0 +1,28 @@
+--- 
+image: Jose.png 
+description: Senior Research Fellow 
+about: 
+  template: trestles 
+  image-width: 10em 
+  image-shape: round 
+ 
+  links: 
+    - icon: globe 
+      text: Website 
+      href: https://jrfep.github.io 
+    - icon: github 
+      text: GitHub 
+      href: https://github.com/jrfep 
+    - icon: orcid 
+      text: ORCID 
+      href: https://orcid.org/0000-0002-9554-3395 
+    - icon: person-vcard 
+      text: Staff page 
+      href: https://www.unsw.edu.au/staff/jose-ferrer-paris 
+
+title: Dr. José R. Ferrer-Paris 
+--- 
+
+José is currently Research Fellow at the Center for Ecosystem Science at UNSW, and a member of the International Union for the Conservation of Nature (IUCN) Thematic Group on Red List of Ecosystems. He completed his studies in Germany and Venezuela and has research experience in biodiversity monitoring and eco-informatics in Venezuela and South Africa. His research focuses on biodiversity monitoring, species distribution modelling, and risk assessments for species and ecosystems. He has designed, implemented and managed databases of biological data and integrated this data into workflows for reporting and analysis. José’s current work involves the organisation of existing ecological data, monitoring networks, and expert’s knowledge on ecosystem to find spatial and temporal predictors for estimating the status and trends in ecosystem’s distribution and functions. 
+
+ 
