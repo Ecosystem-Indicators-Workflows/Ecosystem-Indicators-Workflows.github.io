@@ -1,6 +1,8 @@
 --- 
 image: Raj.png 
 description: Adjunct Research Fellow 
+categories: ['Core team', 'QCIF/EcoCommons']
+date: "1 Feb 2026"
 about: 
   template: trestles 
   image-width: 10em 
@@ -21,6 +23,8 @@ about:
       text: LinkedIn 
       href: https://www.linkedin.com/in/abhirsc  
 title: Abhimanyu (Raj) Singh 
+language: 
+  title-block-published: "Joined in"
 --- 
 
 Abhimanyu Raj Singh is a Data Ecologist and Scientist working with Ecosystem Indicators Workflows (EIW) project initiative led by UNSW Sydney and EcoCommons project hosted by QCIF Digital Research. He facilitates delivery of FAIR workflow packages, training materials, and community engagement activities, co-authoring peer-reviewed research on EcoCommons' virtual laboratory design and regularly facilitating community workshops. His work bridges ecological science and data infrastructure, supporting researchers and practitioners to develop reproducible, scalable ecosystem-specific indicators across Australia. He contributes to a national effort to empower diverse user communities, from ecologists to policy analysts, through guided, well-documented workflows across other projects like EcoCommons with diverse ecological raw datasets like BioNet surveys, eDNAs, etc. Abhimanyu is committed to open science and building technical capacity across government, academic, and industry sectors engaged in ecosystem monitoring and reporting. 

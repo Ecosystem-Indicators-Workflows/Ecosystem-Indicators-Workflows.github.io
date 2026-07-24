@@ -1,6 +1,8 @@
 --- 
 image: Beatta.png 
 description: Research and Community Engagement Practitioner 
+categories: ['C&E team', 'UNSW']
+date: "14 Feb 2026"
 about: 
   template: trestles 
   image-width: 10em 
@@ -9,6 +11,8 @@ about:
     - text: LinkedIn 
       href: https://www.linkedin.com/in/beatta-zarrabi-45936a9b/ 
 title: Beatta Zarrabi 
+language: 
+  title-block-published: "Joined in"
 --- 
 
 Beatta Zarrabi (UNSW) is a research and community engagement practitioner at UNSW with experience in developing and supporting collaborative research communities across interdisciplinary projects. Her work focuses on aligning user needs, stakeholder engagement, and project delivery to strengthen adoption and long-term impact of research tools and workflows. 

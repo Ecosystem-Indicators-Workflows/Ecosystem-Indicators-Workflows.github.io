@@ -1,6 +1,8 @@
 --- 
 image: Silvia.jpeg 
 description: Project Officer
+categories: ['Core team', 'UNSW']
+date: "1 Feb 2026"
 about: 
   template: trestles 
   image-width: 10em 
@@ -14,6 +16,8 @@ about:
     - text: CV 
       href: https://github.com/Silvia-pigeon/Website/blob/main/Silvia_Colombo_CV.pdf 
 title: Dr. Silvia Colombo 
+language: 
+  title-block-published: "Joined in"
 --- 
 
  

@@ -5,6 +5,7 @@ listing:
   type: grid
   grid-columns: 3
   image-height: 300px
-  categories: false
+  categories: true
   contents: People
+  sort: date
 ---
