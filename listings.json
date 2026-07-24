@@ -2,12 +2,12 @@
   {
     "listing": "/people.html",
     "items": [
-      "/People/Raj.html",
-      "/People/Beatta.html",
-      "/People/Ada.html",
       "/People/Jose.html",
+      "/People/Ada.html",
+      "/People/Raj.html",
       "/People/Silvia.html",
-      "/People/Liz.html"
+      "/People/Liz.html",
+      "/People/Beatta.html"
     ]
   },
   {

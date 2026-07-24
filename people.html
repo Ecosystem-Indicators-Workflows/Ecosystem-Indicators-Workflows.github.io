@@ -80,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -156,7 +156,7 @@ window.Quarto = {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./workshops.html"> 
-<span class="menu-text">Workhops</span></a>
+<span class="menu-text">Workshops</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./events.html"> 
@@ -187,7 +187,7 @@ window.Quarto = {
 </center>
 </div></div>
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div><div class="category" data-category="QVJEQw==">ARDC <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QyUyNkUlMjB0ZWFt">C&amp;E team <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Q29yZSUyMHRlYW0=">Core team <span class="quarto-category-count">(4)</span></div><div class="category" data-category="UHJvamVjdCUyMGxlYWQ=">Project lead <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UUNJRiUyRkVjb0NvbW1vbnM=">QCIF/EcoCommons <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VU5TVw==">UNSW <span class="quarto-category-count">(4)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -216,70 +216,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1784782252614" data-listing-reading-time-sort="1" data-listing-word-count-sort="117">
-<a href="./People/Raj.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./People/Raj.png" class="thumbnail-image card-img" style="height: 300px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Abhimanyu (Raj) Singh
-</h5>
-<div class="card-text listing-description delink">
-<p>Adjunct Research Fellow</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1784782252610" data-listing-reading-time-sort="1" data-listing-word-count-sort="51">
-<a href="./People/Beatta.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./People/Beatta.png" class="thumbnail-image card-img" style="height: 300px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Beatta Zarrabi
-</h5>
-<div class="card-text listing-description delink">
-<p>Research and Community Engagement Practitioner</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1784782252609" data-listing-reading-time-sort="1" data-listing-word-count-sort="95">
-<a href="./People/Ada.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./People/Ada.png" class="thumbnail-image card-img" style="height: 300px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Dr.&nbsp;Ada Sanchez-Mercado
-</h5>
-<div class="card-text listing-description delink">
-<p>Adjunct Lecturer</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1784782252612" data-listing-reading-time-sort="1" data-listing-word-count-sort="127">
+<div class="g-col-1" data-index="0" data-categories="UHJvamVjdCUyMGxlYWQlMkNDb3JlJTIwdGVhbSUyQ1VOU1c=" data-listing-date-sort="1748095200000" data-listing-file-modified-sort="1784867911407" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="127">
 <a href="./People/Jose.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -289,18 +226,94 @@ Dr.&nbsp;Ada Sanchez-Mercado
 <h5 class="no-anchor card-title listing-title">
 Dr.&nbsp;José R. Ferrer-Paris
 </h5>
-<div class="card-text listing-description delink">
-<p>Senior Research Fellow</p>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UHJvamVjdCUyMGxlYWQ='); return false;">Project lead</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q29yZSUyMHRlYW0='); return false;">Core team</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('VU5TVw=='); return false;">UNSW</div>
+
 </div>
-<div class="card-attribution card-text-small start">
+<div class="card-text listing-description delink">
+<p>Senior Research Fellow at the Centre for Ecosystem Science, project lead.</p>
+</div>
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 
+</div>
+<div class="listing-date">
+May 25, 2025
 </div>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1784782510519" data-listing-reading-time-sort="1" data-listing-word-count-sort="73">
+<div class="g-col-1" data-index="1" data-categories="Q29yZSUyMHRlYW0lMkNDJTI2RSUyMHRlYW0lMkNVTlNX" data-listing-date-sort="1751292000000" data-listing-file-modified-sort="1784867878993" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="95">
+<a href="./People/Ada.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./People/Ada.png" class="thumbnail-image card-img" style="height: 300px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Dr.&nbsp;Ada Sanchez-Mercado
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q29yZSUyMHRlYW0='); return false;">Core team</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('QyUyNkUlMjB0ZWFt'); return false;">C&amp;E team</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('VU5TVw=='); return false;">UNSW</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Adjunct Lecturer</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jul 1, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="Q29yZSUyMHRlYW0lMkNRQ0lGJTJGRWNvQ29tbW9ucw==" data-listing-date-sort="1769864400000" data-listing-file-modified-sort="1784867961039" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="133">
+<a href="./People/Raj.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./People/Raj.png" class="thumbnail-image card-img" style="height: 300px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Abhimanyu (Raj) Singh
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q29yZSUyMHRlYW0='); return false;">Core team</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UUNJRiUyRkVjb0NvbW1vbnM='); return false;">QCIF/EcoCommons</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Adjunct Research Fellow</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Feb 1, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="Q29yZSUyMHRlYW0lMkNVTlNX" data-listing-date-sort="1769864400000" data-listing-file-modified-sort="1784867957372" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="73">
 <a href="./People/Silvia.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -310,33 +323,84 @@ Dr.&nbsp;José R. Ferrer-Paris
 <h5 class="no-anchor card-title listing-title">
 Dr.&nbsp;Silvia Colombo
 </h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q29yZSUyMHRlYW0='); return false;">Core team</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('VU5TVw=='); return false;">UNSW</div>
+
+</div>
 <div class="card-text listing-description delink">
 <p>Project Officer</p>
 </div>
-<div class="card-attribution card-text-small start">
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 
+</div>
+<div class="listing-date">
+Feb 1, 2026
 </div>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1784782290600" data-listing-reading-time-sort="1" data-listing-word-count-sort="55">
+<div class="g-col-1" data-index="4" data-categories="QyUyNkUlMjB0ZWFtJTJDQVJEQw==" data-listing-date-sort="1770987600000" data-listing-file-modified-sort="1784867953676" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="55">
 <a href="./People/Liz.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./People/Liz.png" class="thumbnail-image card-img" style="height: 300px;">
+<img loading="lazy" src="./People/Liz-profile-photo.jpg" class="thumbnail-image card-img" style="height: 300px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Liz Stokes
 </h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('QyUyNkUlMjB0ZWFt'); return false;">C&amp;E team</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('QVJEQw=='); return false;">ARDC</div>
+
+</div>
 <div class="card-text listing-description delink">
 <p>Skills Development Lead Trainer</p>
 </div>
-<div class="card-attribution card-text-small start">
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 
+</div>
+<div class="listing-date">
+Feb 14, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="QyUyNkUlMjB0ZWFtJTJDVU5TVw==" data-listing-date-sort="1770987600000" data-listing-file-modified-sort="1784867951059" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="49">
+<a href="./People/Beatta.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./People/Beatta.png" class="thumbnail-image card-img" style="height: 300px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Beatta Zarrabi
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('QyUyNkUlMjB0ZWFt'); return false;">C&amp;E team</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('VU5TVw=='); return false;">UNSW</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Research and Community Engagement Practitioner</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Feb 14, 2026
 </div>
 </div>
 </div>
