@@ -1,5 +1,5 @@
 --- 
-image: Liz.png 
+image: Liz-profile-photo.jpg
 description: Skills Development Lead Trainer
 about: 
   template: trestles 
