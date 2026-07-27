@@ -1,6 +1,8 @@
 --- 
 Image: will.jpg
 description: Computer Science Engineer
+categories: ['Core team', 'James Cook University']
+date: "20 March 2026"
 about: 
   template: trestles 
   image-width: 10em 
