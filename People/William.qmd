@@ -1,0 +1,24 @@
+--- 
+Image: will.jpg
+description: Computer Science Engineer
+about: 
+  template: trestles 
+  image-width: 10em 
+  image-shape: round 
+  links: 
+    - icon: github 
+      text: GitHub 
+      href: https://github.com/WilliamMasson 
+    - icon: orcid 
+      text: ORCID 
+      href: https://orcid.org/0009-0008-0413-5283
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/william--masson
+title: William Masson
+--- 
+
+William is a computer science engineer with a focus on environmental research.
+He holds a Master's degree in Computer Science Engineering from Clermont Auvergne University in France (2020), where he built a broad foundation across multiple domains such as coding, databases, networks, and information security. He then spent three years as a research engineer at INRAE (French National Research Institute for Agriculture, Food and the Environment) in Aix-en-Provence, based within the national research centre for lake ecosystems. There, he contributed to the development of a web platform for the dissemination and valorisation of data on French lacustrine ecosystems, led IT training sessions and a workshop for the CNRS (French National Centre for Scientific Research), and assisted with field data collection for ecological research on rivers.
+In 2024, William completed a Diploma of Conservation and Ecosystem Management at TAFE on the Sunshine Coast, Australia, gaining hands-on field experience as a bush regenerator involved in ecological restoration and invasive species control.
+William now works with the Global Ecology Lab at James Cook University on the Global Ecosystems Atlas initiative, where he serves as a remote sensing analyst with expertise in the Global Ecosystem Typology. As the lab's IT lead, he also oversees its broader IT strategy, from codebase and cloud storage management to recovery systems. In parallel, he is involved in the Ecosystem Indicators Workflows project as a research software engineer.
+As a side project during his time at the Global Ecology Lab, William contributed, alongside fellow lab members, to the creation of EcoViewer, an open-access environmental reference platform, which was submitted to the 2026 edition of the GBIF Ebbe Nielsen Challenge.
