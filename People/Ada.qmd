@@ -1,5 +1,7 @@
 --- 
-Image: Ada.png 
+image: Ada.png 
+categories: [Core team, C&E team, UNSW]
+date: "1 Jul 2025"
 description: Adjunct Lecturer 
 about: 
   template: trestles 
@@ -16,6 +18,8 @@ about:
       text: Staff page 
       href: https://www.unsw.edu.au/staff/ada-sanchez-mercado 
 title: Dr. Ada Sanchez-Mercado 
+language: 
+  title-block-published: "Leading since"
 --- 
 
 Dr. Ada Sanchez-Mercado completed a PhD in Ecology at the Venezuelan Institute of Scientific Research. She has 13 years of research experience in conservation biology of vertebrate and invertebrate species, with emphasis in modelling and quantitative ecology. Ada has experience leading and conducting research focused on animal species distribution patterns, species threats monitoring, and human dimension of wildlife conservation. Across her career, she has designed evidence-based, efficient conservation actions through innovative analytical approaches to make the most out of the available data. She studied and worked in Venezuela, South Africa, the USA, and Australia. 
