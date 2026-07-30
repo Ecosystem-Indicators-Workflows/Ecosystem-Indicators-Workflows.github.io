@@ -1,13 +1,12 @@
 [
   {
-    "listing": "/people.html",
+    "listing": "/events.html",
     "items": [
-      "/People/Jose.html",
-      "/People/Ada.html",
-      "/People/Raj.html",
-      "/People/Silvia.html",
-      "/People/Liz.html",
-      "/People/Beatta.html"
+      "/event-info/ESA-Symposium.html",
+      "/event-info/eResearch abstract - poster.html",
+      "/event-info/eResearch 2026 - BoF abstract.html",
+      "/event-info/RSEAA Abstract.html",
+      "/event-info/Kick-off_meeting.html"
     ]
   },
   {
@@ -19,13 +18,15 @@
     ]
   },
   {
-    "listing": "/events.html",
+    "listing": "/people.html",
     "items": [
-      "/event-info/ESA-Symposium.html",
-      "/event-info/eResearch abstract - poster.html",
-      "/event-info/eResearch 2026 - BoF abstract.html",
-      "/event-info/RSEAA Abstract.html",
-      "/event-info/Kick-off_meeting.html"
+      "/People/Jose.html",
+      "/People/Ada.html",
+      "/People/Raj.html",
+      "/People/Silvia.html",
+      "/People/Liz.html",
+      "/People/William.html",
+      "/People/Beatta.html"
     ]
   }
 ]
