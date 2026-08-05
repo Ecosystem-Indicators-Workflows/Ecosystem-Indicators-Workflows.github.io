@@ -1,0 +1,19 @@
+--- 
+image: Paula.jpg 
+description: Project Manager
+categories: ['ARDC']
+date: "25 May 2025"
+about: 
+  template: trestles 
+  image-width: 10em 
+  image-shape: round 
+  links: 
+    - text: LinkedIn 
+      href: https://www.linkedin.com/in/pambio/
+title: Dr Paula Andrea Martinez
+language: 
+  title-block-published: "Joined in"
+--- 
+
+Paula leads institutional change to make research software more visible, well-designed and sustainable. She drives collaborative research infrastructure projects that deliver robust software solutions for Australian research communities. Her background is in computer sciences and bioinformatics. Paula currently leads the Environmental Indicators Initiative.
+ 
