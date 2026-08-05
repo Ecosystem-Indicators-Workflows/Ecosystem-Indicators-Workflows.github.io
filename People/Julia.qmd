@@ -1,0 +1,15 @@
+--- 
+image: Julia.jpg 
+description: Program Manager
+categories: ['ARDC']
+date: "25 May 2025"
+about: 
+  template: trestles 
+  image-width: 10em 
+  image-shape: round 
+title: Julia Martin
+language: 
+  title-block-published: "Joined in"
+--- 
+
+With over 15 years in the eResearch sector, Julia delivers data infrastructure programs and provides strategic advice and support to research institutions and government agencies on effective data management. Julia’s current focus is FAIR earth and environmental data and infrastructure.
