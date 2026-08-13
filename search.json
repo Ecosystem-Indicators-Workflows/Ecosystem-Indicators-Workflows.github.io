@@ -14,6 +14,13 @@
     "text": "Abhimanyu Raj Singh is a Data Ecologist and Scientist working with Ecosystem Indicators Workflows (EIW) project initiative led by UNSW Sydney and EcoCommons project hosted by QCIF Digital Research. He facilitates delivery of FAIR workflow packages, training materials, and community engagement activities, co-authoring peer-reviewed research on EcoCommons’ virtual laboratory design and regularly facilitating community workshops. His work bridges ecological science and data infrastructure, supporting researchers and practitioners to develop reproducible, scalable ecosystem-specific indicators across Australia. He contributes to a national effort to empower diverse user communities, from ecologists to policy analysts, through guided, well-documented workflows across other projects like EcoCommons with diverse ecological raw datasets like BioNet surveys, eDNAs, etc. Abhimanyu is committed to open science and building technical capacity across government, academic, and industry sectors engaged in ecosystem monitoring and reporting."
   },
   {
+    "objectID": "People/Paula.html",
+    "href": "People/Paula.html",
+    "title": "Dr Paula Andrea Martinez",
+    "section": "",
+    "text": "Paula leads institutional change to make research software more visible, well-designed and sustainable. She drives collaborative research infrastructure projects that deliver robust software solutions for Australian research communities. Her background is in computer sciences and bioinformatics. Paula currently leads the Environmental Indicators Initiative."
+  },
+  {
     "objectID": "People/Jose.html",
     "href": "People/Jose.html",
     "title": "Dr. José R. Ferrer-Paris",
@@ -32,14 +39,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "The Ecosystem Indicator Workflows (EIW) is a project led by UNSW Centre for Ecosystem Science with partners from the University of Melbourne (UniMelb), James Cook University (JCU), Queensland University of Technology (QUT), Queensland Cyber Infrastructure Foundation (QCIF) and ARDC.\nThe project is a co-investment partnership with the Australian Research Data Commons (ARDC) through the Planet Research Data Commons (DOI: 10.3565/j5sq-a757). The ARDC is enabled by the Australian Government’s National Collaborative Research Infrastructure Strategy (NCRIS).\nIf you are interested in hearing more about the EIW project and you would like to participate to our next workshops, visit our project webpage, and contact us at eco.indicators.workflows (@) unsw.edu.au"
+    "text": "The Ecosystem Indicator Workflows (EIW) is a project led by UNSW Centre for Ecosystem Science with partners from the University of Melbourne (UniMelb), James Cook University (JCU), Queensland University of Technology (QUT), Queensland Cyber Infrastructure Foundation (QCIF) and ARDC.\nIf you are interested in hearing more about the EIW project and you would like to participate to our next workshops, visit our project webpage, and contact us at eco.indicators.workflows (@) unsw.edu.au"
   },
   {
     "objectID": "about.html#acknowledgements",
     "href": "about.html#acknowledgements",
     "title": "About",
     "section": "Acknowledgements",
-    "text": "Acknowledgements\nThis work was partly supported by:\n\nthe ARC Industry Laureate Fellowship Project “Foundations for leading the nature positive ecosystem conservation agenda” (IL240100030) led by Professor David Keith at UNSW Sydney, in partnership with Department of Climate Change, Energy, the Environment and Water, International Union for Conservation of Nature, Department of Energy, Environment and Water, Department of Biodiversity Conservation and Attractions, Department of Planning and Environment NSW, Department of Natural Resources and Environment Tasmania.\nThe Ian Potter Foundation grant “Tracking ecosystems and adapting management to change (ID: 21592)”.\n\nThe Ecosystem Indicators Workflows project received investment from the Australian Research Data Commons (ARDC). The ARDC is funded by the National Collaborative Research Infrastructure Strategy (NCRIS).\nThis project was undertaken with the assistance of resources and services from the National Computational Infrastructure (NCI), which is supported by the Australian Government."
+    "text": "Acknowledgements\nThis work was partly supported by:\n\nThe project is a co-investment partnership with the Australian Research Data Commons (ARDC) through the Planet Research Data Commons (DOI: 10.3565/j5sq-a757). The ARDC is enabled by the Australian Government’s National Collaborative Research Infrastructure Strategy (NCRIS).\nThe ARC Industry Laureate Fellowship Project “Foundations for leading the nature positive ecosystem conservation agenda” (IL240100030) led by Professor David Keith at UNSW Sydney, in partnership with Department of Climate Change, Energy, the Environment and Water, International Union for Conservation of Nature, Department of Energy, Environment and Water, Department of Biodiversity Conservation and Attractions, Department of Planning and Environment NSW, Department of Natural Resources and Environment Tasmania.\nThe Ian Potter Foundation grant “Tracking ecosystems and adapting management to change (ID: 21592)”.\n\nThis project was undertaken with the assistance of resources and services from the National Computational Infrastructure (NCI), which is supported by the Australian Government."
   },
   {
     "objectID": "event-info/ESA-Symposium.html#abstract",
@@ -186,7 +193,7 @@
     "href": "people.html",
     "title": "Meet our team",
     "section": "",
-    "text": "Dr. José R. Ferrer-Paris\n\n\n\nProject lead\n\nCore team\n\nUNSW\n\n\n\nSenior Research Fellow at the Centre for Ecosystem Science, project lead.\n\n\n\n\n\n\nMay 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. Ada Sanchez-Mercado\n\n\n\nCore team\n\nC&E team\n\nUNSW\n\n\n\nAdjunct Lecturer\n\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbhimanyu (Raj) Singh\n\n\n\nCore team\n\nQCIF/EcoCommons\n\n\n\nAdjunct Research Fellow\n\n\n\n\n\n\nFeb 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. Silvia Colombo\n\n\n\nCore team\n\nUNSW\n\n\n\nProject Officer\n\n\n\n\n\n\nFeb 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nLiz Stokes\n\n\n\nC&E team\n\nARDC\n\n\n\nSkills Development Lead Trainer\n\n\n\n\n\n\nFeb 14, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWilliam Masson\n\n\n\nCore team\n\nJCU\n\n\n\nComputer Science Engineer\n\n\n\n\n\n\nFeb 14, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeatta Zarrabi\n\n\n\nC&E team\n\nUNSW\n\n\n\nResearch and Community Engagement Practitioner\n\n\n\n\n\n\nFeb 14, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Dr. José R. Ferrer-Paris\n\n\n\nProject lead\n\nCore team\n\nUNSW\n\n\n\nSenior Research Fellow at the Centre for Ecosystem Science, project lead.\n\n\n\n\n\n\nMay 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr Paula Andrea Martinez\n\n\n\nARDC\n\n\n\nProject Manager\n\n\n\n\n\n\nMay 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nJulia Martin\n\n\n\nARDC\n\n\n\nProgram Manager\n\n\n\n\n\n\nMay 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. Ada Sanchez-Mercado\n\n\n\nCore team\n\nC&E team\n\nUNSW\n\n\n\nAdjunct Lecturer\n\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbhimanyu (Raj) Singh\n\n\n\nCore team\n\nQCIF/EcoCommons\n\n\n\nAdjunct Research Fellow\n\n\n\n\n\n\nFeb 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. Silvia Colombo\n\n\n\nCore team\n\nUNSW\n\n\n\nProject Officer\n\n\n\n\n\n\nFeb 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nLiz Stokes\n\n\n\nC&E team\n\nARDC\n\n\n\nSkills Development Lead Trainer\n\n\n\n\n\n\nFeb 14, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWilliam Masson\n\n\n\nCore team\n\nJCU\n\n\n\nComputer Science Engineer\n\n\n\n\n\n\nFeb 14, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeatta Zarrabi\n\n\n\nC&E team\n\nUNSW\n\n\n\nResearch and Community Engagement Practitioner\n\n\n\n\n\n\nFeb 14, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "People/Ada.html",
@@ -201,6 +208,13 @@
     "title": "William Masson",
     "section": "",
     "text": "William is a computer science engineer with a focus on environmental research. He holds a Master’s degree in Computer Science Engineering from Clermont Auvergne University in France (2020), where he built a broad foundation across multiple domains such as coding, databases, networks, and information security. He then spent three years as a research engineer at INRAE (French National Research Institute for Agriculture, Food and the Environment) in Aix-en-Provence, based within the national research centre for lake ecosystems. There, he contributed to the development of a web platform for the dissemination and valorisation of data on French lacustrine ecosystems, led IT training sessions and a workshop for the CNRS (French National Centre for Scientific Research), and assisted with field data collection for ecological research on rivers. In 2024, William completed a Diploma of Conservation and Ecosystem Management at TAFE on the Sunshine Coast, Australia, gaining hands-on field experience as a bush regenerator involved in ecological restoration and invasive species control. William now works with the Global Ecology Lab at James Cook University on the Global Ecosystems Atlas initiative, where he serves as a remote sensing analyst with expertise in the Global Ecosystem Typology. As the lab’s IT lead, he also oversees its broader IT strategy, from codebase and cloud storage management to recovery systems. In parallel, he is involved in the Ecosystem Indicators Workflows project as a research software engineer. As a side project during his time at the Global Ecology Lab, William contributed, alongside fellow lab members, to the creation of EcoViewer, an open-access environmental reference platform, which was submitted to the 2026 edition of the GBIF Ebbe Nielsen Challenge."
+  },
+  {
+    "objectID": "People/Julia.html",
+    "href": "People/Julia.html",
+    "title": "Julia Martin",
+    "section": "",
+    "text": "With over 15 years in the eResearch sector, Julia delivers data infrastructure programs and provides strategic advice and support to research institutions and government agencies on effective data management. Julia’s current focus is FAIR earth and environmental data and infrastructure."
   },
   {
     "objectID": "People/Silvia.html",
