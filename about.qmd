@@ -4,8 +4,6 @@ title: "About"
 
 The Ecosystem Indicator Workflows (EIW) is a project led by UNSW Centre for Ecosystem Science with partners from the University of Melbourne (UniMelb), James Cook University (JCU), Queensland University of Technology (QUT), Queensland Cyber Infrastructure Foundation (QCIF) and ARDC.
 
-The project is a co-investment partnership with the Australian Research Data Commons (ARDC) through the Planet Research Data Commons (DOI: 10.3565/j5sq-a757). The ARDC is enabled by the Australian Government’s National Collaborative Research Infrastructure Strategy (NCRIS).
-
 If you are interested in hearing more about the EIW project and you would like to participate to our next workshops, visit our project webpage, and contact us at eco.indicators.workflows (\@) unsw.edu.au
 
 ::: {#figure}
@@ -18,10 +16,9 @@ Photo by José Rafael Ferrer-Paris, [Flickr](https://www.flickr.com/photos/19979
 
 This work was partly supported by:
 
-- the ARC Industry Laureate Fellowship Project "Foundations for leading the nature positive ecosystem conservation agenda" ([IL240100030](https://www.arc.gov.au/2024-industry-laureate-profile-professor-david-keith)) led by Professor David Keith at UNSW Sydney, in partnership with Department of Climate Change, Energy, the Environment and Water, International Union for Conservation of Nature, Department of Energy, Environment and Water, Department of Biodiversity Conservation and Attractions, Department of Planning and Environment NSW, Department of Natural Resources and Environment Tasmania. 
+- The project is a co-investment partnership with the Australian Research Data Commons (ARDC) through the Planet Research Data Commons (DOI: [10.3565/j5sq-a757](https://doi.org/10.3565/j5sq-a757)). The ARDC is enabled by the Australian Government’s National Collaborative Research Infrastructure Strategy (NCRIS).
+- The ARC Industry Laureate Fellowship Project "Foundations for leading the nature positive ecosystem conservation agenda" ([IL240100030](https://www.arc.gov.au/2024-industry-laureate-profile-professor-david-keith)) led by Professor David Keith at UNSW Sydney, in partnership with Department of Climate Change, Energy, the Environment and Water, International Union for Conservation of Nature, Department of Energy, Environment and Water, Department of Biodiversity Conservation and Attractions, Department of Planning and Environment NSW, Department of Natural Resources and Environment Tasmania. 
 - [The Ian Potter Foundation](https://www.ianpotter.org.au) grant "Tracking ecosystems and adapting management to change (ID: 21592)". 
-
-The [Ecosystem Indicators Workflows](https://ardc.edu.au/project/) project received investment from the Australian Research Data Commons (ARDC). The ARDC is funded by the National Collaborative Research Infrastructure Strategy (NCRIS).
 
 This project was undertaken with the assistance of resources and services from the National Computational Infrastructure (NCI), which is supported by the Australian Government.
 
