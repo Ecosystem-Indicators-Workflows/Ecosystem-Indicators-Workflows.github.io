@@ -18,7 +18,7 @@ website:
   page-footer:
     left: "This site prepared by: [EIW project team](https://github.com/Ecosystem-Indicators-Workflows)"
     center: "![](/assets/unsw_new_logo.png){height=20px} We acknowledge the Bedegal and Gadigal peoples who are the Traditional Owners of the lands where UNSW Sydney is located. We pay our respects to Elders past and present."
-    right: "The project is a co-investment partnership with the Australian Research Data Commons (ARDC) through the [Planet Research Data Commons](https://doi.org/10.3565/j5sq-a757). The ARDC is enabled by the Australian Government’s National Collaborative Research Infrastructure Strategy (NCRIS)."
+    right: "The project is a co-investment partnership with the Australian Research Data Commons (ARDC) through the Planet Research Data Commons (DOI:[10.3565/j5sq-a757](https://doi.org/10.3565/j5sq-a757)). The ARDC is enabled by the Australian Government’s National Collaborative Research Infrastructure Strategy (NCRIS)."
 
 format:
   html:
