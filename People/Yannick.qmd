@@ -1,5 +1,5 @@
 --- 
-image: Yannick.jpeg 
+image: Yannick.JPG 
 description: Project Officer
 categories: ['Core team', 'UNSW']
 date: "19 Aug 2026"
