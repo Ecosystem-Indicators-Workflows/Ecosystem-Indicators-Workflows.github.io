@@ -1,0 +1,16 @@
+--- 
+image: Yannick.jpeg 
+description: Project Officer
+categories: ['Core team', 'UNSW']
+date: "19 Aug 2026"
+about: 
+  template: trestles 
+  image-width: 10em 
+  image-shape: round 
+title: Assoba Yannick Tidou
+language: 
+  title-block-published: "Joined in"
+--- 
+
+Yannick is a Project Officer at UNSW with experience in environmental science, data analysis and project coordination. He has experience managing complex environmental datasets, supporting large-scale research programs and coordinating teams.
+Yannick enjoys working with people, solving problems and using data to support practical outcomes.
