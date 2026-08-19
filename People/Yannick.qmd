@@ -7,6 +7,9 @@ about:
   template: trestles 
   image-width: 10em 
   image-shape: round 
+- icon: LinkedIn 
+      text: LinkedIn 
+      href: https://www.linkedin.com/in/yannick-tidou-7baa61183/ 
 title: Assoba Yannick Tidou
 language: 
   title-block-published: "Joined in"
