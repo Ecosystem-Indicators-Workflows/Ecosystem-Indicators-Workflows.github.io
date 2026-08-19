@@ -1,8 +1,7 @@
 --- 
 image: Silvia.jpeg 
-description: Project Officer
-categories: ['Core team', 'UNSW']
-date: "1 Feb 2026"
+description: Project Officer (Feb-Aug 2026)
+categories: ['UNSW']
 about: 
   template: trestles 
   image-width: 10em 
@@ -16,10 +15,6 @@ about:
     - text: CV 
       href: https://github.com/Silvia-pigeon/Website/blob/main/Silvia_Colombo_CV.pdf 
 title: Dr. Silvia Colombo 
-language: 
-  title-block-published: "Joined in"
 --- 
 
- 
-
-Silvia Colombo is currently a Project Officer for the Ecosystem Indicators Workflows (EIW) project initiative led by UNSW Sydney. She is also working at Macquarie University as a Research Assistant, helping to digitalize The Downing Herbarium collection to make specimens available to the public. Silvia recently completed a Ph.D. at the University of Melbourne on the evolution of the architecture of avian nests. Her background includes taxonomy, animal behaviour and navigation. 
+Silvia Colombo was Project Officer at the initial stages of the Ecosystem Indicators Workflows (EIW) project initiative led by UNSW Sydney. Silvia completed a Ph.D. at the University of Melbourne on the evolution of the architecture of avian nests. She is currently working at Macquarie University as a Research Assistant, helping to digitalize The Downing Herbarium collection to make specimens available to the public. Her background includes taxonomy, animal behaviour and navigation. 
