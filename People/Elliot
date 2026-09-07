@@ -1,0 +1,20 @@
+--- 
+image: Elliot.JPG 
+description: Research Associate
+categories: ['Core team', 'UNSW']
+date: "25 Aug 2026"
+about: 
+  template: trestles 
+  image-width: 10em 
+  image-shape: round 
+  links: 
+   - text: Google scholar 
+     href: https://scholar.google.com/citations?user=uChIQYAAAAAJ&hl=en 
+title: Elliot Gould
+language: 
+  title-block-published: "Joined in"
+--- 
+
+Elliot Gould is a Research Associate at the University of New South Wales, Sydney. He contributes to research at the interface between ecological sciences and environmental data science and assists in the development and refinement of reproducible workflows for ecosystem-specific and fit-for-purpose indicators on the ARDC funded Ecosystem Indicators Workflows project. They follow FAIR principles (Findable, Accessible, Interoperable and Reproducible) to develop workflows, software packages, refine research vocabularies, audit datasets, document platform capabilities, and performance.
+
+Broadly, Elliot seeks to use data science techniques to advance the open-science movement and build a strong community of practice by improving the transparency and reproducibility of research within their home discipline of ecology and conservation science. Elliot's main interest is in building ecological models for aiding conservation and management decisions. Their PhD investigated the transparency and reproducibility of ecological models in applied ecology and conservation decision-making. Other interests include decision-theory, structured decision making, and plant ecology.
