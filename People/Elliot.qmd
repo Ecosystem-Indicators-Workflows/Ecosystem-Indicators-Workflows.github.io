@@ -1,5 +1,5 @@
 --- 
-image: Elliot.JPG 
+image: Elliot.png
 description: Research Associate
 categories: ['Core team', 'UNSW']
 date: "25 Aug 2026"
