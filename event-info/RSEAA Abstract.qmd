@@ -8,14 +8,16 @@ date: 24 Aug 2026
 categories: [Conferences]
 language: 
   title-block-author-plural: "Authors"
-  title-block-published: "Upcoming event"
+  title-block-published: "Presented on"
 ---
 
 The [Research Software Asia Australia Conference (RSAA26)](https://rseaa.org/) is a research software community event for Asia and Australia.
 
 ![](rseaa_logo.png){width=500}
 
-The Ecosystem Indicator Workflow project will be present with a speed presentation.
+The Ecosystem Indicator Workflow project participated with a speed presentation.
+
+The slides of the presentation are available at [![](https://zenodo.org/badge/DOI/10.5281/zenodo.22297966.svg)](https://doi.org/10.5281/zenodo.22297966)
 
 ## Abstract
 
@@ -29,6 +31,7 @@ The architectural choices required to balance scientific rigour with accessibili
 This work-in-progress invites feedback from RSEs who have navigated similar trade-offs in reproducible research infrastructure. 
 
 ## Learning Objectives
+
 By the end of this presentation, participants will be able to:  
 Identify opportunities to engage: Know how to contribute to or use the Ecosystem Indicators Workflows, including community via workshops, GitHub, etc.  
 Describe the FAIR workflow approach: Articulate how modular, transparent, and reproducible workflows can be applied to develop national ecosystem-specific indicators across terrestrial, marine, freshwater, and subterranean realms. 

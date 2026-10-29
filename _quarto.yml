@@ -7,6 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - plans.qmd
+      - outputs.qmd
       - workshops.qmd
       - events.qmd
       - people.qmd
