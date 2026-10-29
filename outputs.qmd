@@ -1,0 +1,26 @@
+---
+title: "Our products and digital assets"
+---
+
+Visit our [GitHub organisation](https://github.com/Ecosystem-Indicators-Workflows) and [zenodo community](https://zenodo.org/communities/ecosystem-specific-indicatos) for comprehensive access to all of our public repositories.
+
+## Research vocabularies
+
+- [IUCN GET vocabulary in GitHub](https://github.com/Ecosystem-Indicators-Workflows/IUCN-GET-vocabulary)
+
+## Ecosystem maps
+
+- [Australian ecosystems synthesis pipeline](https://github.com/Ecosystem-Indicators-Workflows/ecosystems-maps-australia)
+
+## Workflow development
+
+
+
+## R packages
+
+- [ecoSynthesis](https://github.com/Ecosystem-Indicators-Workflows/ecoSynthesis): Synthesis of cross-referencing information between two classification systems
+
+## Other tools
+
+- [EIW FAIR check kit](https://github.com/Ecosystem-Indicators-Workflows/FAIR4EIW)
+

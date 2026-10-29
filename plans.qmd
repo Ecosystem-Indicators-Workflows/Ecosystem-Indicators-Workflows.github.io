@@ -1,0 +1,27 @@
+---
+title: "Project plans"
+---
+
+Here we present an overview of the plans developed by the Ecosystem Indicator Workflows (EIW) project.
+
+## Workflow development plan
+
+This Development Plan presents the outcomes of the  project’s requirements gathering activities and defines a two-year roadmap for workflow development. Requirements were collected through stakeholder workshops, consultations, interviews, and engagement activities involving researchers, ecologists, software developers, data scientists, environmental managers, government agencies, infrastructure providers, and other prospective users of ecosystem indicator workflows. These activities identified strong demand for workflows that are adaptable, transparent, interoperable, well-documented, and easy to reuse across different ecosystem types and assessment contexts.
+
+Explore the EIW development plan as a webdocument [here](https://ecosystem-indicators-workflows.github.io/EIW-development-plan/).
+
+## FAIR implementation plan 
+
+Embedding FAIR-by-design early into the project is critical mechanism for the EIW to achieve its core objectives: accelerated development of indicators for a wide range of Australia's ecosystems; community adoption and reuse of the workflows; and adoption of data outputs by end users. The EIW FAIR implementation plan  outlines the EIW project’s plan for implementing FAIR-by-design.
+
+We have developed a [EIW FAIR check kit](https://github.com/Ecosystem-Indicators-Workflows/FAIR4EIW).
+
+## PID implementation plan
+
+Persistent Identifiers (PIDs) are a foundational component of the EIW project, supporting the discovery, interoperability, citation, traceability, and long-term stewardship of workflows, software, datasets, metadata, documentation, and other digital research assets. The EIW PID Implementation Plan establishes the strategy, governance arrangements, technical infrastructure, and operational procedures that will enable persistent and reliable identification of project outputs throughout their lifecycle.
+
+## Communication and Engagement plan
+
+The Community Building & Engagement Strategy defines the objectives, activities, roles, deliverables, and evaluation approach for the EIW project, covering community building, training, marketing, and communications. 
+
+The activities outlined in this strategy are aimed at supporting adoption, reuse, and sustainability of project outputs by enabling users to discover, apply, contribute to, and advocate for reproducible workflows to develop ecosystem-specific indicators. 
