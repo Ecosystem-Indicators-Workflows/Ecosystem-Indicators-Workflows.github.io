@@ -1,0 +1,20 @@
+---
+title: Integrated FAIR datasets
+description: FAIR datasets integrated into defined and well documented use cases
+subtitle: Output 2
+date: 8 Nov 2026
+---
+
+The project has established the governance and technical foundations required for FAIR data integration. 
+
+A comprehensive [FAIR Implementation Plan](/plans.qmd#FAIR) and [PID Implementation Plan](/plans.qmd#PID) have been completed and approved, providing a framework for metadata standards, persistent identifiers, interoperability and long-term stewardship of project outputs. 
+
+The project [GitHub organisation](https://github.com/Ecosystem-Indicators-Workflows) is operational and includes repositories supporting data cataloguing, ecosystem data transformation, workflow development and software outputs. 
+
+FAIR compliance has been embedded through a reusable [EIW FAIR check kit](https://github.com/Ecosystem-Indicators-Workflows/FAIR4EIW) implemented using GitHub Actions, enabling consistent metadata management, documentation and publication workflows across repositories. 
+
+Project outputs are being managed through a dedicated [Zenodo community](https://zenodo.org/communities/ecosystem-specific-indicatos/records?q=&l=list&p=1&s=10&sort=newest) to support archiving, citation and long-term accessibility. 
+
+The infrastructure already supports multiple ecosystem data integration workflows and use cases under development, including [ecosystem cross-references](https://github.com/search?q=topic%3Across-referencing+org%3AEcosystem-Indicators-Workflows&type=Repositories) and [ecosyten specific indicators](https://github.com/search?q=topic%3Aecosystem-specific-indicator+org%3AEcosystem-Indicators-Workflows&type=Repositories) workflows. 
+
+These investments establish a scalable framework that improves data discoverability, reproducibility and reuse, reducing barriers for researchers developing ecosystem assessments and environmental reporting products. 

@@ -1,0 +1,25 @@
+---
+title: Cross-referenced ecosystem data
+description: Cross-referencing of ecosystem types using controlled vocabulary and ontology mapping integrated into workflows metadata.
+subtitle: Output 4
+date: 8 Nov 2026
+---
+
+The project has established a reproducible framework for ecosystem cross-referencing based on the Global Ecosystem Typology controlled vocabulary. 
+
+Workflow repositories use persistent identifiers associated with ecosystem concepts and incorporate standardised membership tables prepared by domain experts to document relationships between source classifications and target ecosystem units. 
+
+The approach has been implemented through the ecoSynthesis software framework and associated workflow repositories, providing transparent links between source datasets, cross-reference tables and analytical outputs. 
+
+Repository-level FAIR checks are being implemented using automated GitHub-based tooling, while publication and long-term preservation through Zenodo are underway. 
+
+The cross-referencing methods and associated code are publicly available and reproducible, enabling researchers to understand, evaluate and reuse classification translations across ecosystem assessments. 
+
+Although formal ontology representations are still under development and will not be fully implemented during this project, the current approach delivers machine-readable, version-controlled and reusable ecosystem mapping workflows. 
+
+This substantially improves transparency and reproducibility compared with traditional spreadsheet-based crosswalks and creates a foundation for future semantic interoperability and provenance tracking.
+
+
+## Ecosystem maps
+
+- [Australian ecosystems synthesis pipeline](https://github.com/Ecosystem-Indicators-Workflows/ecosystems-maps-australia)

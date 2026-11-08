@@ -1,0 +1,17 @@
+---
+title: Vocabularies for the Global Ecosystem Typology
+subtitle: Output 1
+date: 8 Nov 2026
+description: Vocabularies for the Global Ecosystem Typology (GET) published in the appropriate registry.
+---
+
+The Global Ecosystem Typology vocabulary has been developed ([repository in GitHub](https://github.com/Ecosystem-Indicators-Workflows/IUCN-GET-vocabulary)) and published as a publicly accessible demonstrator through [Research Vocabularies Australia](https://demo.vocabs.ardc.edu.au/viewById/1167), with persistent identifiers provided through [W3ID](https://w3id.org/iucn-get/IUCNEcosystemTypology). 
+
+The current version contains *146 concepts/terms*, each with a resolvable persistent identifier. 
+
+The vocabulary is already being reused across project outputs, including the [*ecoSynthesis*](https://github.com/Ecosystem-Indicators-Workflows/ecoSynthesis) R package, R and Python analysis scripts, and mulitple repositories supporting ecosystem data transformation and [cross-referencing workflows](https://github.com/search?q=topic%3Across-referencing+org%3AEcosystem-Indicators-Workflows&type=Repositories). 
+
+External adoption has commenced through integration into a Python tool developed for an external project ([Google Sustainability 30x30 project](https://github.com/RLE-Assessment)) and incorporation into the data model for a new IUCN Red List of Ecosystems assessment database ([SERIS project](https://findanexpert.unimelb.edu.au/project/26-2350-spatial-ecosystem-risk-intelligence-system-(seris)), under development). 
+
+The vocabulary provides a common, machine-readable reference standard for ecosystem classifications, improving interoperability, reproducibility and FAIR compliance across ecosystem assessment, monitoring and reporting workflows. It reduces duplication of effort, enables consistent cross-walking between ecosystem classifications, and supports future integration of national and international ecosystem assessment products. 
+

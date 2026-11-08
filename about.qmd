@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About our project"
 ---
 
 The Ecosystem Indicator Workflows (EIW) is a project led by UNSW Centre for Ecosystem Science with partners from the University of Melbourne (UniMelb), James Cook University (JCU), Queensland University of Technology (QUT), Queensland Cyber Infrastructure Foundation (QCIF) and ARDC.

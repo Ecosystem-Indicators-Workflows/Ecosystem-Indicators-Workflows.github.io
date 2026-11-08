@@ -1,0 +1,15 @@
+---
+title: Indicator Workflow Catalogue and Dashboard
+subtitle: "Output 5"
+date: 8 Nov 2026
+---
+
+This work package commenced according to schedule in late 2026. Initial planning activities have focused on requirements gathering and coordination between the project's technical and community engagement teams. 
+
+Preparations for stakeholder focus groups and consultation activities are underway to ensure that catalogue requirements reflect community needs and intended use cases. 
+
+The project has already delivered several foundational components that will support development of the catalogue, including controlled vocabularies, workflow repositories, FAIR implementation processes and ecosystem cross-referencing workflows. 
+
+Work is progressing as planned and no significant risks to delivery have been identified at this stage. 
+
+Once completed, the catalogue will improve discoverability of ecosystem indicator workflows and help researchers identify existing methods, data resources and gaps in ecosystem coverage.

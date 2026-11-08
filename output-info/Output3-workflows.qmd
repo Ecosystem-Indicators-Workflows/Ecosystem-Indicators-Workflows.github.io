@@ -1,0 +1,12 @@
+---
+title: Integrated Ecosystem Indicator Workflows
+description: FAIR workflows for Ecosystem Indicators Development are integrated into existing national research infrastructure
+subtitle: Output 3
+date: 8 Nov 2026
+---
+
+Progress towards this output has commenced but remains at an early stage. The project has established the workflow development framework and begun implementation of the first tranche of workflow components, with delivery scheduled for November 2026. Several example workflows and supporting repositories have been created, implementing reproducible practices, standard documentation and the project's FAIR toolkit. These workflows are currently designed to operate in local and repository-based environments and provide a foundation for later deployment through national research infrastructure platforms. Following review by the Steering Committee in October 2026, the scope and sequencing of activities were adjusted to shift part of the implementation effort into the second project year while maintaining the original end-of-project objectives. Integration with platforms such as EcoCommons has therefore not yet commenced and will be prioritised following completion and refinement of the initial workflow tranche. The work completed to date reduces technical risk by establishing common workflow patterns, FAIR practices and reproducible development processes that can be reused as workflows mature and are prepared for infrastructure deployment.
+
+## R packages
+
+- [ecoSynthesis](https://github.com/Ecosystem-Indicators-Workflows/ecoSynthesis): Synthesis of cross-referencing information between two classification systems

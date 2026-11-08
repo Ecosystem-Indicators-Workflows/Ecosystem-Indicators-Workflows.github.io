@@ -25,10 +25,8 @@ The BoF format enables open exchange, peer learning, and cross-institutional dis
 
 ## Presenters Bios: 
 
-Liz Stokes (Australian Research Data Commons) 
-Liz Stokes is Skills Development Lead Trainer at the Australian Research Data Commons (ARDC), where she focuses on translating community and workforce development strategies into practical training and engagement programs. Her work centres on building capability across research software and data ecosystems, with an emphasis on embedding user needs into sustainable community practice. 
+[Liz Stokes](/People/Liz.qmd) (Australian Research Data Commons) is Skills Development Lead Trainer at the Australian Research Data Commons (ARDC), where she focuses on translating community and workforce development strategies into practical training and engagement programs. Her work centres on building capability across research software and data ecosystems, with an emphasis on embedding user needs into sustainable community practice. 
 
-Beatta Zarrabi (UNSW) 
-Beatta Zarrabi is a research and community engagement practitioner at UNSW with experience in developing and supporting collaborative research communities across interdisciplinary projects. Her work focuses on aligning user needs, stakeholder engagement, and project delivery to strengthen adoption and long-term impact of research tools and workflows. 
+[Beatta Zarrabi](/People/Beatta.qmd) (UNSW) is a research and community engagement practitioner at UNSW with experience in developing and supporting collaborative research communities across interdisciplinary projects. Her work focuses on aligning user needs, stakeholder engagement, and project delivery to strengthen adoption and long-term impact of research tools and workflows. 
 
  
