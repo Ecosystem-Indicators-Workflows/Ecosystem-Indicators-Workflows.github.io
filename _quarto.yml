@@ -9,10 +9,14 @@ website:
         text: Home
       - plans.qmd
       - outputs.qmd
-      - workshops.qmd
-      - events.qmd
-      - people.qmd
-      - about.qmd
+      - text: Activities
+        menu:
+        - workshops.qmd
+        - events.qmd
+      - text: About us
+        menu:
+        - people.qmd
+        - about.qmd
   margin-header: |
     <center>
     ![](/assets/logo_CES.png){height=66px}
