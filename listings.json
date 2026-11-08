@@ -8,6 +8,17 @@
     ]
   },
   {
+    "listing": "/outputs.html",
+    "items": [
+      "/output-info/Output1-vocab.html",
+      "/output-info/Output2-FAIR.html",
+      "/output-info/Output3-workflows.html",
+      "/output-info/Output4-crossrefs.html",
+      "/output-info/Output5-dashboard.html",
+      "/output-info/Output6-engagement.html"
+    ]
+  },
+  {
     "listing": "/events.html",
     "items": [
       "/event-info/ESA-Symposium.html",
@@ -20,7 +31,7 @@
   {
     "listing": "/people.html",
     "items": [
-      "/People/Jose.html",
+      "/People/JR.html",
       "/People/Paula.html",
       "/People/Julia.html",
       "/People/Ada.html",

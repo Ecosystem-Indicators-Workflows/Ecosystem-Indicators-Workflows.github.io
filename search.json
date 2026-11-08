@@ -28,11 +28,11 @@
     "text": "William is a computer science engineer with a focus on environmental research. He holds a Master’s degree in Computer Science Engineering from Clermont Auvergne University in France (2020), where he built a broad foundation across multiple domains such as coding, databases, networks, and information security. He then spent three years as a research engineer at INRAE (French National Research Institute for Agriculture, Food and the Environment) in Aix-en-Provence, based within the national research centre for lake ecosystems. There, he contributed to the development of a web platform for the dissemination and valorisation of data on French lacustrine ecosystems, led IT training sessions and a workshop for the CNRS (French National Centre for Scientific Research), and assisted with field data collection for ecological research on rivers. In 2024, William completed a Diploma of Conservation and Ecosystem Management at TAFE on the Sunshine Coast, Australia, gaining hands-on field experience as a bush regenerator involved in ecological restoration and invasive species control. William now works with the Global Ecology Lab at James Cook University on the Global Ecosystems Atlas initiative, where he serves as a remote sensing analyst with expertise in the Global Ecosystem Typology. As the lab’s IT lead, he also oversees its broader IT strategy, from codebase and cloud storage management to recovery systems. In parallel, he is involved in the Ecosystem Indicators Workflows project as a research software engineer. As a side project during his time at the Global Ecology Lab, William contributed, alongside fellow lab members, to the creation of EcoViewer, an open-access environmental reference platform, which was submitted to the 2026 edition of the GBIF Ebbe Nielsen Challenge."
   },
   {
-    "objectID": "People/Ada.html",
-    "href": "People/Ada.html",
-    "title": "Dr. Ada Sanchez-Mercado",
+    "objectID": "People/Yannick.html",
+    "href": "People/Yannick.html",
+    "title": "Assoba Yannick Tidou",
     "section": "",
-    "text": "Dr. Ada Sanchez-Mercado completed a PhD in Ecology at the Venezuelan Institute of Scientific Research. She has 13 years of research experience in conservation biology of vertebrate and invertebrate species, with emphasis in modelling and quantitative ecology. Ada has experience leading and conducting research focused on animal species distribution patterns, species threats monitoring, and human dimension of wildlife conservation. Across her career, she has designed evidence-based, efficient conservation actions through innovative analytical approaches to make the most out of the available data. She studied and worked in Venezuela, South Africa, the USA, and Australia."
+    "text": "Yannick is a Project Officer at UNSW with experience in environmental science, data analysis and project coordination. He has experience managing complex environmental datasets, supporting large-scale research programs and coordinating teams. Yannick enjoys working with people, solving problems and using data to support practical outcomes."
   },
   {
     "objectID": "People/Liz.html",
@@ -44,14 +44,14 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About our project",
     "section": "",
     "text": "The Ecosystem Indicator Workflows (EIW) is a project led by UNSW Centre for Ecosystem Science with partners from the University of Melbourne (UniMelb), James Cook University (JCU), Queensland University of Technology (QUT), Queensland Cyber Infrastructure Foundation (QCIF) and ARDC.\nIf you are interested in hearing more about the EIW project and you would like to participate to our next workshops, visit our project webpage, and contact us at eco.indicators.workflows (@) unsw.edu.au"
   },
   {
     "objectID": "about.html#acknowledgements",
     "href": "about.html#acknowledgements",
-    "title": "About",
+    "title": "About our project",
     "section": "Acknowledgements",
     "text": "Acknowledgements\nThis work was partly supported by:\n\nThe project is a co-investment partnership with the Australian Research Data Commons (ARDC) through the Planet Research Data Commons (DOI: 10.3565/j5sq-a757). The ARDC is enabled by the Australian Government’s National Collaborative Research Infrastructure Strategy (NCRIS).\nThe ARC Industry Laureate Fellowship Project “Foundations for leading the nature positive ecosystem conservation agenda” (IL240100030) led by Professor David Keith at UNSW Sydney, in partnership with Department of Climate Change, Energy, the Environment and Water, International Union for Conservation of Nature, Department of Energy, Environment and Water, Department of Biodiversity Conservation and Attractions, Department of Planning and Environment NSW, Department of Natural Resources and Environment Tasmania.\nThe Ian Potter Foundation grant “Tracking ecosystems and adapting management to change (ID: 21592)”.\n\nThis project was undertaken with the assistance of resources and services from the National Computational Infrastructure (NCI), which is supported by the Australian Government."
   },
@@ -91,6 +91,27 @@
     "text": "We aim to provide modular, fit-for-purpose toolbox that supports the development of ecosystem-specific indicators.\nThe vision of the project is to move from a current state of fragmented and ad hoc methods towards fully reproducible workflows that are supported by a community of practice and that integrate seamlessly into online catalogues and reporting tools.\n\n\n\nSchematic representation of the vision of the EIW project. The coloured codes in each box refer to specific work packages of the EIW project plan. Diagram available in draw.io\n\n\nLearn more about the project at https://ardc.edu.au/project/ecosystem-indicator-workflows/.\nCheck our GitHub organisation for repositories and research projects associated with the Ecosystem Indicators Workflows initiative."
   },
   {
+    "objectID": "output-info/Output6-engagement.html",
+    "href": "output-info/Output6-engagement.html",
+    "title": "Engagement activities for the community of Ecosystem Indicator developers",
+    "section": "",
+    "text": "Community engagement activities have commenced and are progressing according to the Community Building and Engagement Strategy.\n\n\n\nParticipants of EIW project first kick-off meeting. Photo by Abhimanyu Raj Singh.\n\n\nTwo co-design workshops were delivered during 2026 to inform project planning and technical development.\nThe project has established a public website and communication channels to support dissemination of project outputs and engagement opportunities.\nA symposium involving project partners from UNSW, University of Melbourne, QUT and JCU has been accepted at the Ecological Society of Australia conference, while project presentations and engagement activities have also been delivered through the Research Software Asia Australia Conference and eResearch Australasia.\nProject communications, workshop outcomes and related materials have been shared through project and partner channels.\nThe next phase of activities, including stakeholder focus groups and broader community engagement events, is scheduled to commence following the ESA symposium and will support co-design of future project outputs.\nThese activities are helping to build a national community of practice around ecosystem indicator development, support knowledge exchange between researchers and practitioners, and improve adoption of FAIR and reproducible approaches for ecosystem assessment workflows."
+  },
+  {
+    "objectID": "output-info/Output2-FAIR.html",
+    "href": "output-info/Output2-FAIR.html",
+    "title": "Integrated FAIR datasets",
+    "section": "",
+    "text": "The project has established the governance and technical foundations required for FAIR data integration.\nA comprehensive FAIR Implementation Plan and PID Implementation Plan have been completed and approved, providing a framework for metadata standards, persistent identifiers, interoperability and long-term stewardship of project outputs.\nThe project GitHub organisation is operational and includes repositories supporting data cataloguing, ecosystem data transformation, workflow development and software outputs.\nFAIR compliance has been embedded through a reusable EIW FAIR check kit implemented using GitHub Actions, enabling consistent metadata management, documentation and publication workflows across repositories.\nProject outputs are being managed through a dedicated Zenodo community to support archiving, citation and long-term accessibility.\nThe infrastructure already supports multiple ecosystem data integration workflows and use cases under development, including ecosystem cross-references and ecosyten specific indicators workflows.\nThese investments establish a scalable framework that improves data discoverability, reproducibility and reuse, reducing barriers for researchers developing ecosystem assessments and environmental reporting products."
+  },
+  {
+    "objectID": "output-info/Output1-vocab.html",
+    "href": "output-info/Output1-vocab.html",
+    "title": "Vocabularies for the Global Ecosystem Typology",
+    "section": "",
+    "text": "The Global Ecosystem Typology vocabulary has been developed (repository in GitHub) and published as a publicly accessible demonstrator through Research Vocabularies Australia, with persistent identifiers provided through W3ID.\nThe current version contains 146 concepts/terms, each with a resolvable persistent identifier.\nThe vocabulary is already being reused across project outputs, including the ecoSynthesis R package, R and Python analysis scripts, and mulitple repositories supporting ecosystem data transformation and cross-referencing workflows.\nExternal adoption has commenced through integration into a Python tool developed for an external project (Google Sustainability 30x30 project) and incorporation into the data model for a new IUCN Red List of Ecosystems assessment database (SERIS project, under development).\nThe vocabulary provides a common, machine-readable reference standard for ecosystem classifications, improving interoperability, reproducibility and FAIR compliance across ecosystem assessment, monitoring and reporting workflows. It reduces duplication of effort, enables consistent cross-walking between ecosystem classifications, and supports future integration of national and international ecosystem assessment products."
+  },
+  {
     "objectID": "workshops.html",
     "href": "workshops.html",
     "title": "Workshops",
@@ -100,44 +121,9 @@
   {
     "objectID": "outputs.html",
     "href": "outputs.html",
-    "title": "Our products and digital assets",
+    "title": "Project outputs",
     "section": "",
-    "text": "Visit our GitHub organisation and zenodo community for comprehensive access to all of our public repositories."
-  },
-  {
-    "objectID": "outputs.html#research-vocabularies",
-    "href": "outputs.html#research-vocabularies",
-    "title": "Our products and digital assets",
-    "section": "Research vocabularies",
-    "text": "Research vocabularies\n\nIUCN GET vocabulary in GitHub"
-  },
-  {
-    "objectID": "outputs.html#ecosystem-maps",
-    "href": "outputs.html#ecosystem-maps",
-    "title": "Our products and digital assets",
-    "section": "Ecosystem maps",
-    "text": "Ecosystem maps\n\nAustralian ecosystems synthesis pipeline"
-  },
-  {
-    "objectID": "outputs.html#workflow-development",
-    "href": "outputs.html#workflow-development",
-    "title": "Our products and digital assets",
-    "section": "Workflow development",
-    "text": "Workflow development"
-  },
-  {
-    "objectID": "outputs.html#r-packages",
-    "href": "outputs.html#r-packages",
-    "title": "Our products and digital assets",
-    "section": "R packages",
-    "text": "R packages\n\necoSynthesis: Synthesis of cross-referencing information between two classification systems"
-  },
-  {
-    "objectID": "outputs.html#other-tools",
-    "href": "outputs.html#other-tools",
-    "title": "Our products and digital assets",
-    "section": "Other tools",
-    "text": "Other tools\n\nEIW FAIR check kit"
+    "text": "Visit our GitHub organisation and zenodo community for comprehensive access to all of our public repositories.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n    \n  \n\n\n\n\n\n\nSubtitle\n\n\n\nTitle\n\n\n\nDescription\n\n\n\n\n\n\n\n\nOutput 1\n\n\nVocabularies for the Global Ecosystem Typology\n\n\nVocabularies for the Global Ecosystem Typology (GET) published in the appropriate registry.\n\n\n\n\n\n\nOutput 2\n\n\nIntegrated FAIR datasets\n\n\nFAIR datasets integrated into defined and well documented use cases\n\n\n\n\n\n\nOutput 3\n\n\nIntegrated Ecosystem Indicator Workflows\n\n\nFAIR workflows for Ecosystem Indicators Development are integrated into existing national research infrastructure\n\n\n\n\n\n\nOutput 4\n\n\nCross-referenced ecosystem data\n\n\nCross-referencing of ecosystem types using controlled vocabulary and ontology mapping integrated into workflows metadata.\n\n\n\n\n\n\nOutput 5\n\n\nIndicator Workflow Catalogue and Dashboard\n\n\n\n\n\n\n\n\n\nOutput 6\n\n\nEngagement activities for the community of Ecosystem Indicator developers\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "workshop-info/shape-workflow-I/index.html",
@@ -196,6 +182,41 @@
     "text": "Advancing an Ecosystem Approach for Nature‑Positive Futures\n\n\nSymposium at ESA\n\n\n\nDec 2, 2026\n\n\n\n\n\n\n\n\n\n\n\nAccelerating Ecosystem Science Through Community-Driven Research Infrastructure And Workflows\n\n\neResearch poster\n\n\n\nOct 24, 2026\n\n\n\n\n\n\n\n\n\n\n\nBut What Actually Works? Evaluating Capacity in User Communities\n\n\neResearch BoF abstract\n\n\n\nOct 24, 2026\n\n\n\n\n\n\n\n\n\n\n\nEcosystem Indicators Workflows: Building a FAIR, Modular Toolbox for Reproducible Ecological Assessment in Australia\n\n\nRSEAA Speed presentation\n\n\n\nAug 24, 2026\n\n\n\n\n\n\n\n\n\n\n\nKick-off meeting for the ARDC Ecosystems Indicators Workflows project\n\n\nProject meetings\n\n\n\nFeb 16, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "output-info/Output4-crossrefs.html",
+    "href": "output-info/Output4-crossrefs.html",
+    "title": "Cross-referenced ecosystem data",
+    "section": "",
+    "text": "The project has established a reproducible framework for ecosystem cross-referencing based on the Global Ecosystem Typology controlled vocabulary.\nWorkflow repositories use persistent identifiers associated with ecosystem concepts and incorporate standardised membership tables prepared by domain experts to document relationships between source classifications and target ecosystem units.\nThe approach has been implemented through the ecoSynthesis software framework and associated workflow repositories, providing transparent links between source datasets, cross-reference tables and analytical outputs.\nRepository-level FAIR checks are being implemented using automated GitHub-based tooling, while publication and long-term preservation through Zenodo are underway.\nThe cross-referencing methods and associated code are publicly available and reproducible, enabling researchers to understand, evaluate and reuse classification translations across ecosystem assessments.\nAlthough formal ontology representations are still under development and will not be fully implemented during this project, the current approach delivers machine-readable, version-controlled and reusable ecosystem mapping workflows.\nThis substantially improves transparency and reproducibility compared with traditional spreadsheet-based crosswalks and creates a foundation for future semantic interoperability and provenance tracking."
+  },
+  {
+    "objectID": "output-info/Output4-crossrefs.html#ecosystem-maps",
+    "href": "output-info/Output4-crossrefs.html#ecosystem-maps",
+    "title": "Cross-referenced ecosystem data",
+    "section": "Ecosystem maps",
+    "text": "Ecosystem maps\n\nAustralian ecosystems synthesis pipeline"
+  },
+  {
+    "objectID": "output-info/Output5-dashboard.html",
+    "href": "output-info/Output5-dashboard.html",
+    "title": "Indicator Workflow Catalogue and Dashboard",
+    "section": "",
+    "text": "This work package commenced according to schedule in late 2026. Initial planning activities have focused on requirements gathering and coordination between the project’s technical and community engagement teams.\nPreparations for stakeholder focus groups and consultation activities are underway to ensure that catalogue requirements reflect community needs and intended use cases.\nThe project has already delivered several foundational components that will support development of the catalogue, including controlled vocabularies, workflow repositories, FAIR implementation processes and ecosystem cross-referencing workflows.\nWork is progressing as planned and no significant risks to delivery have been identified at this stage.\nOnce completed, the catalogue will improve discoverability of ecosystem indicator workflows and help researchers identify existing methods, data resources and gaps in ecosystem coverage."
+  },
+  {
+    "objectID": "output-info/Output3-workflows.html",
+    "href": "output-info/Output3-workflows.html",
+    "title": "Integrated Ecosystem Indicator Workflows",
+    "section": "",
+    "text": "Progress towards this output has commenced but remains at an early stage. The project has established the workflow development framework and begun implementation of the first tranche of workflow components, with delivery scheduled for November 2026. Several example workflows and supporting repositories have been created, implementing reproducible practices, standard documentation and the project’s FAIR toolkit. These workflows are currently designed to operate in local and repository-based environments and provide a foundation for later deployment through national research infrastructure platforms. Following review by the Steering Committee in October 2026, the scope and sequencing of activities were adjusted to shift part of the implementation effort into the second project year while maintaining the original end-of-project objectives. Integration with platforms such as EcoCommons has therefore not yet commenced and will be prioritised following completion and refinement of the initial workflow tranche. The work completed to date reduces technical risk by establishing common workflow patterns, FAIR practices and reproducible development processes that can be reused as workflows mature and are prepared for infrastructure deployment."
+  },
+  {
+    "objectID": "output-info/Output3-workflows.html#r-packages",
+    "href": "output-info/Output3-workflows.html#r-packages",
+    "title": "Integrated Ecosystem Indicator Workflows",
+    "section": "R packages",
+    "text": "R packages\n\necoSynthesis: Synthesis of cross-referencing information between two classification systems"
+  },
+  {
     "objectID": "plans.html",
     "href": "plans.html",
     "title": "Project plans",
@@ -203,22 +224,22 @@
     "text": "Here we present an overview of the plans developed by the Ecosystem Indicator Workflows (EIW) project."
   },
   {
-    "objectID": "plans.html#workflow-development-plan",
-    "href": "plans.html#workflow-development-plan",
+    "objectID": "plans.html#WDP",
+    "href": "plans.html#WDP",
     "title": "Project plans",
     "section": "Workflow development plan",
     "text": "Workflow development plan\nThis Development Plan presents the outcomes of the project’s requirements gathering activities and defines a two-year roadmap for workflow development. Requirements were collected through stakeholder workshops, consultations, interviews, and engagement activities involving researchers, ecologists, software developers, data scientists, environmental managers, government agencies, infrastructure providers, and other prospective users of ecosystem indicator workflows. These activities identified strong demand for workflows that are adaptable, transparent, interoperable, well-documented, and easy to reuse across different ecosystem types and assessment contexts.\nExplore the EIW development plan as a webdocument here."
   },
   {
-    "objectID": "plans.html#fair-implementation-plan",
-    "href": "plans.html#fair-implementation-plan",
+    "objectID": "plans.html#FAIR",
+    "href": "plans.html#FAIR",
     "title": "Project plans",
     "section": "FAIR implementation plan",
     "text": "FAIR implementation plan\nEmbedding FAIR-by-design early into the project is critical mechanism for the EIW to achieve its core objectives: accelerated development of indicators for a wide range of Australia’s ecosystems; community adoption and reuse of the workflows; and adoption of data outputs by end users. The EIW FAIR implementation plan outlines the EIW project’s plan for implementing FAIR-by-design.\nWe have developed a EIW FAIR check kit."
   },
   {
-    "objectID": "plans.html#pid-implementation-plan",
-    "href": "plans.html#pid-implementation-plan",
+    "objectID": "plans.html#PID",
+    "href": "plans.html#PID",
     "title": "Project plans",
     "section": "PID implementation plan",
     "text": "PID implementation plan\nPersistent Identifiers (PIDs) are a foundational component of the EIW project, supporting the discovery, interoperability, citation, traceability, and long-term stewardship of workflows, software, datasets, metadata, documentation, and other digital research assets. The EIW PID Implementation Plan establishes the strategy, governance arrangements, technical infrastructure, and operational procedures that will enable persistent and reliable identification of project outputs throughout their lifecycle."
@@ -256,7 +277,7 @@
     "href": "event-info/eResearch 2026 - BoF abstract.html#presenters-bios",
     "title": "But What Actually Works? Evaluating Capacity in User Communities",
     "section": "Presenters Bios:",
-    "text": "Presenters Bios:\nLiz Stokes (Australian Research Data Commons) Liz Stokes is Skills Development Lead Trainer at the Australian Research Data Commons (ARDC), where she focuses on translating community and workforce development strategies into practical training and engagement programs. Her work centres on building capability across research software and data ecosystems, with an emphasis on embedding user needs into sustainable community practice.\nBeatta Zarrabi (UNSW) Beatta Zarrabi is a research and community engagement practitioner at UNSW with experience in developing and supporting collaborative research communities across interdisciplinary projects. Her work focuses on aligning user needs, stakeholder engagement, and project delivery to strengthen adoption and long-term impact of research tools and workflows."
+    "text": "Presenters Bios:\nLiz Stokes (Australian Research Data Commons) is Skills Development Lead Trainer at the Australian Research Data Commons (ARDC), where she focuses on translating community and workforce development strategies into practical training and engagement programs. Her work centres on building capability across research software and data ecosystems, with an emphasis on embedding user needs into sustainable community practice.\nBeatta Zarrabi (UNSW) is a research and community engagement practitioner at UNSW with experience in developing and supporting collaborative research communities across interdisciplinary projects. Her work focuses on aligning user needs, stakeholder engagement, and project delivery to strengthen adoption and long-term impact of research tools and workflows."
   },
   {
     "objectID": "event-info/RSEAA Abstract.html",
@@ -284,7 +305,7 @@
     "href": "event-info/RSEAA Abstract.html#presenters-bio",
     "title": "Ecosystem Indicators Workflows: Building a FAIR, Modular Toolbox for Reproducible Ecological Assessment in Australia",
     "section": "Presenter(s) Bio",
-    "text": "Presenter(s) Bio\nAbhimanyu Raj Singh is a Data Scientist and Ecologist working with Ecosystem Indicators Workflows (EIW) project initiative led by UNSW Sydney and EcoCommons project hosted by QCIF Digital Research. He facilitates delivery of FAIR workflow packages, training materials, and community engagement activities. His work bridges ecological science and data infrastructure, supporting researchers and practitioners to develop reproducible, scalable ecosystem-specific indicators across Australia. He contributes to a national effort to empower diverse user communities, from ecologists to policy analysts through guided, well-documented workflows aligned with the IUCN Red List of Ecosystems and Global Ecosystem Typology. Abhimanyu is committed to open science and building technical capacity across government, academic, and industry sectors engaged in ecosystem monitoring and reporting.\nDr Jose Ferrer Paris develop methods and frameworks to inform ecosystem science and the conservation of biological diversity. His research is influencing global and national policy on ecosystem conservation and management. His research projects apply spatial ecology and biodiversity informatics methods to organise, access, visualise and analyse a broad range of ecological data like species distribution records, camera trap detection histories, species interactions, species traits or spatio-temporal indicators of ecosystem function. Such data feed digital knowledge bases that are fundamental for policy and management decisions. They inform ecological research, policy, risk management for threatened ecosystems and species, ecosystem restoration and conservation, and natural capital accounting. Reproducibility and transparency of my research is critical for building trust among different user groups supporting evidence-based decisions, driving me to provide open access to data and workflows and encourage reusability and external validation of methods and results. Alongside my peer-reviewed publications, I share my code in and make regular digital contributions to data repositories and knowledge portals."
+    "text": "Presenter(s) Bio\nAbhimanyu Raj Singh is a Data Scientist and Ecologist working with Ecosystem Indicators Workflows (EIW) project initiative led by UNSW Sydney and EcoCommons project hosted by QCIF Digital Research. He facilitates delivery of FAIR workflow packages, training materials, and community engagement activities. His work bridges ecological science and data infrastructure, supporting researchers and practitioners to develop reproducible, scalable ecosystem-specific indicators across Australia. He contributes to a national effort to empower diverse user communities, from ecologists to policy analysts through guided, well-documented workflows aligned with the IUCN Red List of Ecosystems and Global Ecosystem Typology. Abhimanyu is committed to open science and building technical capacity across government, academic, and industry sectors engaged in ecosystem monitoring and reporting.\nDr José R. Ferrer Paris develop methods and frameworks to inform ecosystem science and the conservation of biological diversity. His research is influencing global and national policy on ecosystem conservation and management. His research projects apply spatial ecology and biodiversity informatics methods to organise, access, visualise and analyse a broad range of ecological data like species distribution records, camera trap detection histories, species interactions, species traits or spatio-temporal indicators of ecosystem function. Such data feed digital knowledge bases that are fundamental for policy and management decisions. They inform ecological research, policy, risk management for threatened ecosystems and species, ecosystem restoration and conservation, and natural capital accounting. Reproducibility and transparency of my research is critical for building trust among different user groups supporting evidence-based decisions, driving me to provide open access to data and workflows and encourage reusability and external validation of methods and results. Alongside my peer-reviewed publications, I share my code in and make regular digital contributions to data repositories and knowledge portals."
   },
   {
     "objectID": "people.html",
@@ -294,18 +315,18 @@
     "text": "Dr. José R. Ferrer-Paris\n\n\n\nProject lead\n\nCore team\n\nUNSW\n\n\n\nSenior Research Fellow at the Centre for Ecosystem Science, project lead.\n\n\n\n\n\n\nMay 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr Paula Andrea Martinez\n\n\n\nARDC\n\n\n\nProject Manager\n\n\n\n\n\n\nMay 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nJulia Martin\n\n\n\nARDC\n\n\n\nProgram Manager\n\n\n\n\n\n\nMay 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. Ada Sanchez-Mercado\n\n\n\nCore team\n\nC&E team\n\nUNSW\n\n\n\nAdjunct Lecturer\n\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbhimanyu (Raj) Singh\n\n\n\nCore team\n\nQCIF/EcoCommons\n\n\n\nAdjunct Research Fellow\n\n\n\n\n\n\nFeb 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nLiz Stokes\n\n\n\nC&E team\n\nARDC\n\n\n\nSkills Development Lead Trainer\n\n\n\n\n\n\nFeb 14, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWilliam Masson\n\n\n\nCore team\n\nJCU\n\n\n\nComputer Science Engineer\n\n\n\n\n\n\nFeb 14, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeatta Zarrabi\n\n\n\nC&E team\n\nUNSW\n\n\n\nResearch and Community Engagement Practitioner\n\n\n\n\n\n\nFeb 14, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAssoba Yannick Tidou\n\n\n\nCore team\n\nUNSW\n\n\n\nProject Officer\n\n\n\n\n\n\nAug 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nElliot Gould\n\n\n\nCore team\n\nUNSW\n\n\n\nResearch Associate\n\n\n\n\n\n\nAug 25, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. Silvia Colombo\n\n\n\nUNSW\n\n\n\nProject Officer (Feb-Aug 2026)\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "People/Yannick.html",
-    "href": "People/Yannick.html",
-    "title": "Assoba Yannick Tidou",
-    "section": "",
-    "text": "Yannick is a Project Officer at UNSW with experience in environmental science, data analysis and project coordination. He has experience managing complex environmental datasets, supporting large-scale research programs and coordinating teams. Yannick enjoys working with people, solving problems and using data to support practical outcomes."
-  },
-  {
-    "objectID": "People/Jose.html",
-    "href": "People/Jose.html",
+    "objectID": "People/JR.html",
+    "href": "People/JR.html",
     "title": "Dr. José R. Ferrer-Paris",
     "section": "",
     "text": "José is currently Research Fellow at the Center for Ecosystem Science at UNSW, and a member of the International Union for the Conservation of Nature (IUCN) Thematic Group on Red List of Ecosystems. He completed his studies in Germany and Venezuela and has research experience in biodiversity monitoring and eco-informatics in Venezuela and South Africa. His research focuses on biodiversity monitoring, species distribution modelling, and risk assessments for species and ecosystems. He has designed, implemented and managed databases of biological data and integrated this data into workflows for reporting and analysis. José’s current work involves the organisation of existing ecological data, monitoring networks, and expert’s knowledge on ecosystem to find spatial and temporal predictors for estimating the status and trends in ecosystem’s distribution and functions."
+  },
+  {
+    "objectID": "People/Ada.html",
+    "href": "People/Ada.html",
+    "title": "Dr. Ada Sanchez-Mercado",
+    "section": "",
+    "text": "Dr. Ada Sanchez-Mercado completed a PhD in Ecology at the Venezuelan Institute of Scientific Research. She has 13 years of research experience in conservation biology of vertebrate and invertebrate species, with emphasis in modelling and quantitative ecology. Ada has experience leading and conducting research focused on animal species distribution patterns, species threats monitoring, and human dimension of wildlife conservation. Across her career, she has designed evidence-based, efficient conservation actions through innovative analytical approaches to make the most out of the available data. She studied and worked in Venezuela, South Africa, the USA, and Australia."
   },
   {
     "objectID": "People/Paula.html",
